@@ -1,0 +1,643 @@
+[
+  {
+    "uniqueId": ".lilyyroseee",
+    "videoId": "7408787680932269330",
+    "timestamp": "2024-12-14T20:52:15.328Z",
+    "reason": "Failed after all retry attempts"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:53.731Z",
+    "videoId": "7448694356397018410",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:54.364Z",
+    "videoId": "7448762239319903494",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:54.479Z",
+    "videoId": "7448694813001583914",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:54.537Z",
+    "videoId": "7448694540162174250",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:54.547Z",
+    "videoId": "7448882935345859886",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:55.074Z",
+    "videoId": "7448694273643384110",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:55.795Z",
+    "videoId": "7448672857783061767",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:55.824Z",
+    "videoId": "7448694126582844715",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:55.935Z",
+    "videoId": "7448671681918373127",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:55.979Z",
+    "videoId": "7448672112665005320",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:56.485Z",
+    "videoId": "7448671312819604744",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:57.327Z",
+    "videoId": "7448622992126479649",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:57.344Z",
+    "videoId": "7448670900804685074",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:57.374Z",
+    "videoId": "7448666977045974314",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:57.378Z",
+    "videoId": "7448668368598650158",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:57.745Z",
+    "videoId": "7448622864292465952",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:58.692Z",
+    "videoId": "7448622753088900384",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:58.732Z",
+    "videoId": "7448622249789148449",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:58.749Z",
+    "videoId": "7448622693034839329",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:58.830Z",
+    "videoId": "7448622665352416545",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:14:59.057Z",
+    "videoId": "7448622168503504161",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:00.235Z",
+    "videoId": "7448622040581541153",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:00.302Z",
+    "videoId": "7448622105458953504",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:00.376Z",
+    "videoId": "7448026617412111649",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:00.430Z",
+    "videoId": "7447940222714744086",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:00.477Z",
+    "videoId": "7448588529912794390",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:01.605Z",
+    "videoId": "7447931974154571030",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:01.622Z",
+    "videoId": "7447299995079855382",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:01.788Z",
+    "videoId": "7447300038906121494",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:01.981Z",
+    "videoId": "7447299887751843094",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:02.023Z",
+    "videoId": "7447299954785160470",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:02.879Z",
+    "videoId": "7447299837399256342",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:03.032Z",
+    "videoId": "7447299796953615638",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:03.306Z",
+    "videoId": "7447299757648743702",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:03.361Z",
+    "videoId": "7447290406833884438",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:03.410Z",
+    "videoId": "7447290598001888534",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:04.360Z",
+    "videoId": "7447290366413360406",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:04.544Z",
+    "videoId": "7447290329788697878",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:04.650Z",
+    "videoId": "7447290258925915414",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:04.736Z",
+    "videoId": "7447290214025825558",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:04.846Z",
+    "videoId": "7447290159533526294",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:05.669Z",
+    "videoId": "7447102355339758849",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:05.754Z",
+    "videoId": "7447106123573775632",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:05.940Z",
+    "videoId": "7447105416305102081",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:06.236Z",
+    "videoId": "7447104518787026193",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:06.270Z",
+    "videoId": "7447103736209493249",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:07.095Z",
+    "videoId": "7446773997078891783",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:07.132Z",
+    "videoId": "7447101612436294929",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:07.326Z",
+    "videoId": "7446601583221148933",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:07.759Z",
+    "videoId": "7446149148556004641",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:07.821Z",
+    "videoId": "7445814329531813126",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:08.588Z",
+    "videoId": "7445537229876759850",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:08.718Z",
+    "videoId": "7445536688212020526",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:08.875Z",
+    "videoId": "7444388077654560032",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:09.030Z",
+    "videoId": "7443160352537201953",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:09.206Z",
+    "videoId": "7443162854926126368",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:09.932Z",
+    "videoId": "7443158631316540705",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:10.085Z",
+    "videoId": "7443156989212904736",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:10.154Z",
+    "videoId": "7443020579961081134",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:10.255Z",
+    "videoId": "7443020565016775982",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:10.575Z",
+    "videoId": "7443020478035561774",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:11.504Z",
+    "videoId": "7443020412931378475",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:11.524Z",
+    "videoId": "7442034179145076011",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:11.595Z",
+    "videoId": "7443020460591205674",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:11.844Z",
+    "videoId": "7442023612699168042",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:12.256Z",
+    "videoId": "7442014623739596078",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:12.861Z",
+    "videoId": "7441391835194461473",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:12.981Z",
+    "videoId": "7441005790980361505",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:13.009Z",
+    "videoId": "7441452459513613614",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:13.308Z",
+    "videoId": "7440562480759229726",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:13.460Z",
+    "videoId": "7440527953529670945",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:14.418Z",
+    "videoId": "7440278725939285279",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:14.467Z",
+    "videoId": "7440527864321084704",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:14.713Z",
+    "videoId": "7440527802627083553",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:14.846Z",
+    "videoId": "7440278534746017055",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:14.850Z",
+    "videoId": "7440278346950364447",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:15.427Z",
+    "videoId": "7440277875430919454",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:15.434Z",
+    "videoId": "7440278166381415710",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:15.816Z",
+    "videoId": "7440278049465158942",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:16.404Z",
+    "videoId": "7440184594466606368",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:16.444Z",
+    "videoId": "7440261238753430815",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:16.729Z",
+    "videoId": "7439937615001881889",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:16.744Z",
+    "videoId": "7440151164080885024",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:17.365Z",
+    "videoId": "7439937519766097185",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:17.402Z",
+    "videoId": "7439506404882337070",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:17.962Z",
+    "videoId": "7439936941128224032",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:18.226Z",
+    "videoId": "7439506382807780654",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:18.377Z",
+    "videoId": "7439506383000603947",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:18.745Z",
+    "videoId": "7439506275928657198",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:19.031Z",
+    "videoId": "7439506326310522158",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:19.239Z",
+    "videoId": "7439506203002146094",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:19.813Z",
+    "videoId": "7439506225290612011",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:20.016Z",
+    "videoId": "7439506140972567851",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:20.349Z",
+    "videoId": "7439506079824006446",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:20.481Z",
+    "videoId": "7439506037964770606",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:20.815Z",
+    "videoId": "7439505984621382955",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:21.268Z",
+    "videoId": "7439505969606004014",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:21.659Z",
+    "videoId": "7439505917281996078",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:21.890Z",
+    "videoId": "7439505466339691822",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:21.978Z",
+    "videoId": "7439505500481506606",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:22.047Z",
+    "videoId": "7439367132095270151",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:22.165Z",
+    "videoId": "7439504671288446251",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:23.062Z",
+    "videoId": "7439352292228222240",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:23.171Z",
+    "videoId": "7439049315198176544",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:23.388Z",
+    "videoId": "7439046368695471393",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:23.739Z",
+    "videoId": "7438964313194548526",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:23.760Z",
+    "videoId": "7438964279719546154",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:39.431Z",
+    "videoId": "7448762239319903494",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:15:40.178Z",
+    "videoId": "7448882935345859886",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:08.490Z",
+    "videoId": "7448694813001583914",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:08.512Z",
+    "videoId": "7448762239319903494",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:08.537Z",
+    "videoId": "7448694540162174250",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:08.632Z",
+    "videoId": "7448882935345859886",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:08.641Z",
+    "videoId": "7448694356397018410",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:09.704Z",
+    "videoId": "7448694273643384110",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:09.835Z",
+    "videoId": "7448671681918373127",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:09.872Z",
+    "videoId": "7448694126582844715",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:10.011Z",
+    "videoId": "7448672857783061767",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:16:10.208Z",
+    "videoId": "7448672112665005320",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:28.626Z",
+    "videoId": "7448762239319903494",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:28.751Z",
+    "videoId": "7448694540162174250",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:28.804Z",
+    "videoId": "7448882935345859886",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:29.962Z",
+    "videoId": "7448694273643384110",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:29.982Z",
+    "videoId": "7448694126582844715",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:30.066Z",
+    "videoId": "7448672857783061767",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:30.074Z",
+    "videoId": "7448672112665005320",
+    "error": "Invalid API response format"
+  },
+  {
+    "timestamp": "2024-12-16T07:17:30.112Z",
+    "videoId": "7448671681918373127",
+    "error": "Invalid API response format"
+  }
+]

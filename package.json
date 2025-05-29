@@ -1,0 +1,35 @@
+{
+  "name": "tiktok-video-viewer",
+  "version": "1.0.0",
+  "description": "TikTok video viewer and metrics tracker",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "sniper": "node server/tasks/postSniper.mjs",
+    "update-metrics": "node server/tasks/fetchMetrics.mjs"
+  },
+  "keywords": [
+    "tiktok",
+    "video",
+    "metrics",
+    "viewer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fastify": "^5.2.0",
+    "fs-extra": "^11.2.0",
+    "link-preview-js": "^3.0.12",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

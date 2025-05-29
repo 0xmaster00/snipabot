@@ -1,0 +1,873 @@
+=== Post Sniper Started ===
+2025-05-29T04:48:51.619Z - Loaded 1046 existing posts
+2025-05-29T04:48:51.619Z - 
+=== Starting New Check ===
+2025-05-29T04:48:51.979Z - Error processing user alexxanvip: HTTP error! status: 429
+2025-05-29T04:48:51.984Z - Error processing user .lilyyroseee: HTTP error! status: 429
+2025-05-29T04:48:51.985Z - Error processing user anna.meredith27: HTTP error! status: 429
+2025-05-29T04:48:51.987Z - Error processing user aylacummins: HTTP error! status: 429
+2025-05-29T04:48:51.989Z - Error processing user anastsialiv: HTTP error! status: 429
+2025-05-29T04:48:51.991Z - Error processing user ava72591: HTTP error! status: 429
+2025-05-29T04:48:51.993Z - Error processing user olivajacky: HTTP error! status: 429
+2025-05-29T04:48:51.997Z - Error processing user alexis.sami: HTTP error! status: 429
+2025-05-29T04:48:52.002Z - Error processing user alex.lynbrooks: HTTP error! status: 429
+2025-05-29T04:48:52.037Z - Error processing user chelzbb_: HTTP error! status: 429
+2025-05-29T04:48:52.043Z - Error processing user pvaaches0: HTTP error! status: 429
+2025-05-29T04:48:52.044Z - Error processing user chloe.harp4: HTTP error! status: 429
+2025-05-29T04:48:52.045Z - Error processing user chickgudh06: HTTP error! status: 429
+2025-05-29T04:48:52.054Z - Error processing user chloe.stone21: HTTP error! status: 429
+2025-05-29T04:48:52.055Z - Error processing user emluuvsyouu: HTTP error! status: 429
+2025-05-29T04:48:52.058Z - Error processing user evagomez877: HTTP error! status: 429
+2025-05-29T04:48:52.061Z - Error processing user ella.meritt: HTTP error! status: 429
+2025-05-29T04:48:52.063Z - Error processing user freddgives: HTTP error! status: 429
+2025-05-29T04:48:52.091Z - Error processing user haileyyidc: HTTP error! status: 429
+2025-05-29T04:48:52.099Z - Error processing user hazel.loveeee: HTTP error! status: 429
+2025-05-29T04:48:52.104Z - Error processing user hiimspammm: HTTP error! status: 429
+2025-05-29T04:48:52.104Z - Error processing user imjuliett.e: HTTP error! status: 429
+2025-05-29T04:48:52.113Z - Error processing user jade_angel00: HTTP error! status: 429
+2025-05-29T04:48:52.116Z - Error processing user itsannahh4: HTTP error! status: 429
+2025-05-29T04:48:52.118Z - Error processing user jamalhenkins_: HTTP error! status: 429
+2025-05-29T04:48:52.122Z - Error processing user jj.fl1: HTTP error! status: 429
+2025-05-29T04:48:52.123Z - Error processing user jordan_kq: HTTP error! status: 429
+2025-05-29T04:48:52.145Z - Error processing user kartiersimmons: HTTP error! status: 429
+2025-05-29T04:48:52.156Z - Error processing user kattttmartinn: HTTP error! status: 429
+2025-05-29T04:48:52.162Z - Error processing user kenzie.smith02: HTTP error! status: 429
+2025-05-29T04:48:52.163Z - Error processing user kelly.newcom: HTTP error! status: 429
+2025-05-29T04:48:52.170Z - Error processing user kiki.jonas54: HTTP error! status: 429
+2025-05-29T04:48:52.176Z - Error processing user kylie01798: HTTP error! status: 429
+2025-05-29T04:48:52.179Z - Error processing user lailaakk6: HTTP error! status: 429
+2025-05-29T04:48:52.181Z - Error processing user laurarivera637: HTTP error! status: 429
+2025-05-29T04:48:52.183Z - Error processing user laris.enjoyer: HTTP error! status: 429
+2025-05-29T04:48:52.198Z - Error processing user leila.queen703: HTTP error! status: 429
+2025-05-29T04:48:52.212Z - Error processing user liliaa546: HTTP error! status: 429
+2025-05-29T04:48:52.222Z - Error processing user lioralovesclothes1: HTTP error! status: 429
+2025-05-29T04:48:52.228Z - Error processing user lucyywebsterrr: HTTP error! status: 429
+2025-05-29T04:48:52.229Z - Error processing user madeiineargy_: HTTP error! status: 429
+2025-05-29T04:48:52.240Z - Error processing user meaghan.pamm: HTTP error! status: 429
+2025-05-29T04:48:52.241Z - Error processing user megannn.1: HTTP error! status: 429
+2025-05-29T04:48:52.242Z - Error processing user michelle.dilongo282: HTTP error! status: 429
+2025-05-29T04:48:52.243Z - Error processing user mayathatsmee: HTTP error! status: 429
+2025-05-29T04:48:52.253Z - Error processing user millie.central4: HTTP error! status: 429
+2025-05-29T04:48:52.268Z - Error processing user nataliewok: HTTP error! status: 429
+2025-05-29T04:48:52.283Z - Error processing user nathendersonn: HTTP error! status: 429
+2025-05-29T04:48:52.287Z - Error processing user poppy.dorr: HTTP error! status: 429
+2025-05-29T04:48:52.288Z - Error processing user niqi178: HTTP error! status: 429
+2025-05-29T04:48:52.300Z - Error processing user rainilisaa: HTTP error! status: 429
+2025-05-29T04:48:52.302Z - Error processing user raygotsbandzz: HTTP error! status: 429
+2025-05-29T04:48:52.304Z - Error processing user rosiehaulss: HTTP error! status: 429
+2025-05-29T04:48:52.304Z - Error processing user rositaaa508: HTTP error! status: 429
+2025-05-29T04:48:52.314Z - Error processing user salenaalwaris: HTTP error! status: 429
+2025-05-29T04:48:52.324Z - Error processing user salenacuthino22: HTTP error! status: 429
+2025-05-29T04:48:52.342Z - Error processing user samantha.riggz: HTTP error! status: 429
+2025-05-29T04:48:52.346Z - Error processing user sophie8825: HTTP error! status: 429
+2025-05-29T04:48:52.348Z - Error processing user sophie.reynolds03: HTTP error! status: 429
+2025-05-29T04:48:52.360Z - Error processing user stephieewashere: HTTP error! status: 429
+2025-05-29T04:48:52.362Z - Error processing user t40733: HTTP error! status: 429
+2025-05-29T04:48:52.367Z - Error processing user imbianca49: HTTP error! status: 429
+2025-05-29T04:48:52.367Z - Error processing user trixiepb: HTTP error! status: 429
+2025-05-29T04:48:52.369Z - Error processing user giana6uni: HTTP error! status: 429
+2025-05-29T04:48:52.379Z - Error processing user reunanlolaticwa: HTTP error! status: 429
+2025-05-29T04:48:52.406Z - Error processing user adolladolax: HTTP error! status: 429
+2025-05-29T04:48:52.407Z - Error processing user lacey.moser1: HTTP error! status: 429
+2025-05-29T04:48:52.407Z - Error processing user juliedailie: HTTP error! status: 429
+2025-05-29T04:48:52.418Z - Error processing user laysa3038: HTTP error! status: 429
+2025-05-29T04:48:52.423Z - Error processing user notamandaaax: HTTP error! status: 429
+2025-05-29T04:48:52.423Z - Error processing user callme.tyler4: HTTP error! status: 429
+2025-05-29T04:48:52.430Z - Error processing user noemii569: HTTP error! status: 429
+2025-05-29T04:48:52.436Z - Error processing user solelifetill: HTTP error! status: 429
+2025-05-29T04:48:52.443Z - Error processing user jellybeannsweetss: HTTP error! status: 429
+2025-05-29T04:48:52.464Z - Error processing user myasanchez22: HTTP error! status: 429
+2025-05-29T04:48:52.466Z - Error processing user taylorrr479: HTTP error! status: 429
+2025-05-29T04:48:52.466Z - Error processing user wendy.ortiz813: HTTP error! status: 429
+2025-05-29T04:48:52.477Z - Error processing user see.cecilia: HTTP error! status: 429
+2025-05-29T04:48:52.478Z - Error processing user mayameya02: HTTP error! status: 429
+2025-05-29T04:48:52.484Z - Error processing user krissymean92: HTTP error! status: 429
+2025-05-29T04:48:52.491Z - Error processing user mrs.wilsonlove: HTTP error! status: 429
+2025-05-29T04:48:52.494Z - Error processing user jazzdresses: HTTP error! status: 429
+2025-05-29T04:48:52.499Z - Error processing user faithlousiake: HTTP error! status: 429
+2025-05-29T04:48:52.523Z - Error processing user jennn8262: HTTP error! status: 429
+2025-05-29T04:48:52.524Z - Error processing user haileyy4you: HTTP error! status: 429
+2025-05-29T04:48:52.524Z - Error processing user queencbanned: HTTP error! status: 429
+2025-05-29T04:48:52.531Z - Error processing user skaijacksonspam: HTTP error! status: 429
+2025-05-29T04:48:52.534Z - Error processing user isabella.wright84: HTTP error! status: 429
+2025-05-29T04:48:54.603Z - 🚨 NEW POST FOUND - Author: aliiixearlee, Post ID: 7459193656902290710
+2025-05-29T04:48:54.837Z - 🚨 NEW POST FOUND - Author: itmightbealyssa, Post ID: 7471317376902991126
+2025-05-29T04:48:55.102Z - 🚨 NEW POST FOUND - Author: itmightbealyssa, Post ID: 7464323125807795488
+2025-05-29T04:48:55.800Z - 🚨 NEW POST FOUND - Author: jessyl684, Post ID: 7441347639687269650
+2025-05-29T04:48:57.263Z - 🚨 NEW POST FOUND - Author: queenisacsu, Post ID: 7459550932230081800
+2025-05-29T04:48:57.777Z - 🚨 NEW POST FOUND - Author: queenisacsu, Post ID: 7459525750534720775
+2025-05-29T04:48:58.164Z - 🚨 NEW POST FOUND - Author: queenisacsu, Post ID: 7459517604009348370
+2025-05-29T04:48:58.342Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471702023835192598
+2025-05-29T04:48:58.504Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471702014200761622
+2025-05-29T04:48:58.651Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471702002708385046
+2025-05-29T04:48:58.797Z - 🚨 NEW POST FOUND - Author: queenisacsu, Post ID: 7458561809851747592
+2025-05-29T04:48:58.835Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701833992375574
+2025-05-29T04:48:59.083Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701796386344214
+2025-05-29T04:48:59.211Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701735371787542
+2025-05-29T04:48:59.392Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701679105166614
+2025-05-29T04:48:59.468Z - 🚨 NEW POST FOUND - Author: jordanbrookss, Post ID: 7509599418807586090
+2025-05-29T04:48:59.539Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701635979349270
+2025-05-29T04:48:59.690Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701592312614166
+2025-05-29T04:48:59.815Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701537178291478
+2025-05-29T04:48:59.955Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701483591879958
+2025-05-29T04:49:00.253Z - 🚨 NEW POST FOUND - Author: marleynotra, Post ID: 7471701312778865942
+2025-05-29T04:49:00.701Z - 🚨 NEW POST FOUND - Author: eboney146, Post ID: 7484380804253011222
+2025-05-29T04:49:01.312Z - 🚨 NEW POST FOUND - Author: holly.lawxx, Post ID: 7473104140227398934
+2025-05-29T04:49:01.495Z - 🚨 NEW POST FOUND - Author: alasdairfiftyfift, Post ID: 7481541407509876023
+2025-05-29T04:49:01.575Z - 🚨 NEW POST FOUND - Author: melissaaa455, Post ID: 7508688050218732822
+2025-05-29T04:49:03.648Z - 🚨 NEW POST FOUND - Author: emma.jonessss1, Post ID: 7500285813628964151
+2025-05-29T04:49:03.661Z - 🚨 NEW POST FOUND - Author: delazahburkk09, Post ID: 7459295979489987845
+2025-05-29T04:49:03.765Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7470516024303996182
+2025-05-29T04:49:03.918Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7470515945618918678
+2025-05-29T04:49:04.083Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7470203941372824865
+2025-05-29T04:49:04.409Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7470201931454008609
+2025-05-29T04:49:04.576Z - 🚨 NEW POST FOUND - Author: larahaulzz, Post ID: 7501761257716944150
+2025-05-29T04:49:04.677Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7470199590369643808
+2025-05-29T04:49:04.955Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7469077654445116704
+2025-05-29T04:49:05.220Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7469075954279763232
+2025-05-29T04:49:05.525Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7468852649664810273
+2025-05-29T04:49:05.767Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7468852630937193760
+2025-05-29T04:49:06.106Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7468852591431093537
+2025-05-29T04:49:06.412Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7468852413290663201
+2025-05-29T04:49:06.739Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7468078734025772321
+2025-05-29T04:49:06.991Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7468075358621846817
+2025-05-29T04:49:07.300Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7466993254748196129
+2025-05-29T04:49:07.583Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7466816946567171360
+2025-05-29T04:49:07.858Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7466171834526862624
+2025-05-29T04:49:08.140Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7466063185842343201
+2025-05-29T04:49:08.655Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464674765517671712
+2025-05-29T04:49:08.899Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464659484380613920
+2025-05-29T04:49:09.186Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464297633272630561
+2025-05-29T04:49:09.508Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464297590402649376
+2025-05-29T04:49:09.826Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464297113044716833
+2025-05-29T04:49:10.284Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464297032828603680
+2025-05-29T04:49:10.709Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464296885520436513
+2025-05-29T04:49:10.982Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464243214703234336
+2025-05-29T04:49:11.221Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464243255840918816
+2025-05-29T04:49:11.482Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7464243086839876897
+2025-05-29T04:49:11.806Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7463569803916201248
+2025-05-29T04:49:12.049Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7463202245434264864
+2025-05-29T04:49:12.422Z - 🚨 NEW POST FOUND - Author: kaylamoris33, Post ID: 7462709226520038689
+2025-05-29T04:49:12.909Z - Saved 58 new posts to database
+2025-05-29T04:49:12.910Z - Batch completed in 21.29 seconds
+2025-05-29T04:49:12.910Z - Processed 299 users, found 58 new posts
+2025-05-29T04:50:12.926Z - 
+=== Starting New Check ===
+2025-05-29T04:50:13.145Z - Error processing user .lilyyroseee: HTTP error! status: 429
+2025-05-29T04:50:13.147Z - Error processing user anna.meredith27: HTTP error! status: 429
+2025-05-29T04:50:13.152Z - Error processing user alexxanvip: HTTP error! status: 429
+2025-05-29T04:50:13.155Z - Error processing user aylacummins: HTTP error! status: 429
+2025-05-29T04:50:13.156Z - Error processing user ava72591: HTTP error! status: 429
+2025-05-29T04:50:13.157Z - Error processing user anastsialiv: HTTP error! status: 429
+2025-05-29T04:50:13.157Z - Error processing user alexis.sami: HTTP error! status: 429
+2025-05-29T04:50:13.158Z - Error processing user avatheraverxo: HTTP error! status: 429
+2025-05-29T04:50:13.160Z - Error processing user alex.lynbrooks: HTTP error! status: 429
+2025-05-29T04:50:13.204Z - Error processing user chelzbb_: HTTP error! status: 429
+2025-05-29T04:50:13.205Z - Error processing user chickgudh06: HTTP error! status: 429
+2025-05-29T04:50:13.217Z - Error processing user evagomez877: HTTP error! status: 429
+2025-05-29T04:50:13.221Z - Error processing user pvaaches0: HTTP error! status: 429
+2025-05-29T04:50:13.222Z - Error processing user chloe.stone21: HTTP error! status: 429
+2025-05-29T04:50:13.223Z - Error processing user ella.meritt: HTTP error! status: 429
+2025-05-29T04:50:13.223Z - Error processing user chloe.harp4: HTTP error! status: 429
+2025-05-29T04:50:13.224Z - Error processing user freddgives: HTTP error! status: 429
+2025-05-29T04:50:13.224Z - Error processing user emluuvsyouu: HTTP error! status: 429
+2025-05-29T04:50:13.260Z - Error processing user haileyyidc: HTTP error! status: 429
+2025-05-29T04:50:13.263Z - Error processing user hazel.loveeee: HTTP error! status: 429
+2025-05-29T04:50:13.273Z - Error processing user hiimspammm: HTTP error! status: 429
+2025-05-29T04:50:13.283Z - Error processing user imjuliett.e: HTTP error! status: 429
+2025-05-29T04:50:13.283Z - Error processing user jade_angel00: HTTP error! status: 429
+2025-05-29T04:50:13.287Z - Error processing user jj.fl1: HTTP error! status: 429
+2025-05-29T04:50:13.289Z - Error processing user itsannahh4: HTTP error! status: 429
+2025-05-29T04:50:13.289Z - Error processing user jamalhenkins_: HTTP error! status: 429
+2025-05-29T04:50:13.292Z - Error processing user jordan_kq: HTTP error! status: 429
+2025-05-29T04:50:13.316Z - Error processing user kartiersimmons: HTTP error! status: 429
+2025-05-29T04:50:13.320Z - Error processing user kattttmartinn: HTTP error! status: 429
+2025-05-29T04:50:13.329Z - Error processing user kelly.newcom: HTTP error! status: 429
+2025-05-29T04:50:13.345Z - Error processing user kenzie.smith02: HTTP error! status: 429
+2025-05-29T04:50:13.349Z - Error processing user kiki.jonas54: HTTP error! status: 429
+2025-05-29T04:50:13.350Z - Error processing user laris.enjoyer: HTTP error! status: 429
+2025-05-29T04:50:13.351Z - Error processing user lailaakk6: HTTP error! status: 429
+2025-05-29T04:50:13.352Z - Error processing user laurarivera637: HTTP error! status: 429
+2025-05-29T04:50:13.352Z - Error processing user kylie01798: HTTP error! status: 429
+2025-05-29T04:50:13.371Z - Error processing user leila.queen703: HTTP error! status: 429
+2025-05-29T04:50:13.379Z - Error processing user liliaa546: HTTP error! status: 429
+2025-05-29T04:50:13.391Z - Error processing user lioralovesclothes1: HTTP error! status: 429
+2025-05-29T04:50:13.405Z - Error processing user lucyywebsterrr: HTTP error! status: 429
+2025-05-29T04:50:13.412Z - Error processing user meaghan.pamm: HTTP error! status: 429
+2025-05-29T04:50:13.412Z - Error processing user michelle.dilongo282: HTTP error! status: 429
+2025-05-29T04:50:13.414Z - Error processing user megannn.1: HTTP error! status: 429
+2025-05-29T04:50:13.415Z - Error processing user madeiineargy_: HTTP error! status: 429
+2025-05-29T04:50:13.420Z - Error processing user mayathatsmee: HTTP error! status: 429
+2025-05-29T04:50:13.428Z - Error processing user millie.central4: HTTP error! status: 429
+2025-05-29T04:50:13.438Z - Error processing user nataliewok: HTTP error! status: 429
+2025-05-29T04:50:13.449Z - Error processing user nathendersonn: HTTP error! status: 429
+2025-05-29T04:50:13.464Z - Error processing user niqi178: HTTP error! status: 429
+2025-05-29T04:50:13.470Z - Error processing user poppy.dorr: HTTP error! status: 429
+2025-05-29T04:50:13.472Z - Error processing user rainilisaa: HTTP error! status: 429
+2025-05-29T04:50:13.475Z - Error processing user rosiehaulss: HTTP error! status: 429
+2025-05-29T04:50:13.476Z - Error processing user raygotsbandzz: HTTP error! status: 429
+2025-05-29T04:50:13.483Z - Error processing user salenaalwaris: HTTP error! status: 429
+2025-05-29T04:50:13.489Z - Error processing user rositaaa508: HTTP error! status: 429
+2025-05-29T04:50:13.495Z - Error processing user salenacuthino22: HTTP error! status: 429
+2025-05-29T04:50:13.505Z - Error processing user samantha.riggz: HTTP error! status: 429
+2025-05-29T04:50:13.524Z - Error processing user sophie.reynolds03: HTTP error! status: 429
+2025-05-29T04:50:13.530Z - Error processing user stephieewashere: HTTP error! status: 429
+2025-05-29T04:50:13.535Z - Error processing user sophie8825: HTTP error! status: 429
+2025-05-29T04:50:13.536Z - Error processing user t40733: HTTP error! status: 429
+2025-05-29T04:50:13.537Z - Error processing user trixiepb: HTTP error! status: 429
+2025-05-29T04:50:13.538Z - Error processing user imbianca49: HTTP error! status: 429
+2025-05-29T04:50:13.548Z - Error processing user giana6uni: HTTP error! status: 429
+2025-05-29T04:50:13.559Z - Error processing user reunanlolaticwa: HTTP error! status: 429
+2025-05-29T04:50:13.563Z - Error processing user juliedailie: HTTP error! status: 429
+2025-05-29T04:50:13.583Z - Error processing user adolladolax: HTTP error! status: 429
+2025-05-29T04:50:13.590Z - Error processing user lacey.moser1: HTTP error! status: 429
+2025-05-29T04:50:13.594Z - Error processing user laysa3038: HTTP error! status: 429
+2025-05-29T04:50:13.595Z - Error processing user noemii569: HTTP error! status: 429
+2025-05-29T04:50:13.598Z - Error processing user solelifetill: HTTP error! status: 429
+2025-05-29T04:50:13.601Z - Error processing user notamandaaax: HTTP error! status: 429
+2025-05-29T04:50:13.613Z - Error processing user callme.tyler4: HTTP error! status: 429
+2025-05-29T04:50:13.618Z - Error processing user jellybeannsweetss: HTTP error! status: 429
+2025-05-29T04:50:13.633Z - Error processing user taylorrr479: HTTP error! status: 429
+2025-05-29T04:50:14.657Z - 🚨 NEW POST FOUND - Author: isabella.wright84, Post ID: 7501442736889908498
+2025-05-29T04:50:15.966Z - 🚨 NEW POST FOUND - Author: isabella.wright84, Post ID: 7390019276448550145
+2025-05-29T04:50:26.157Z - Saved 2 new posts to database
+2025-05-29T04:50:26.157Z - Batch completed in 13.231 seconds
+2025-05-29T04:50:26.158Z - Processed 299 users, found 2 new posts
+2025-05-29T04:51:12.935Z - 
+=== Starting New Check ===
+2025-05-29T04:51:14.547Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7474616715008052502
+2025-05-29T04:51:14.717Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7473930739201953046
+2025-05-29T04:51:15.057Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7466858294045445408
+2025-05-29T04:51:15.310Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7466480112595176736
+2025-05-29T04:51:15.601Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7466479906470366497
+2025-05-29T04:51:15.860Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7466479794834656544
+2025-05-29T04:51:16.071Z - 🚨 NEW POST FOUND - Author: poppy.dorr, Post ID: 7414085715832704288
+2025-05-29T04:51:16.091Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7466178591752031520
+2025-05-29T04:51:16.383Z - 🚨 NEW POST FOUND - Author: alexxanvip, Post ID: 7464692536158719264
+2025-05-29T04:51:16.544Z - 🚨 NEW POST FOUND - Author: salenacuthino22, Post ID: 7506939092404309291
+2025-05-29T04:51:16.838Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471925636848880942
+2025-05-29T04:51:17.023Z - 🚨 NEW POST FOUND - Author: salenacuthino22, Post ID: 7506699710686580011
+2025-05-29T04:51:17.053Z - 🚨 NEW POST FOUND - Author: imbianca49, Post ID: 7483210251068509445
+2025-05-29T04:51:17.466Z - 🚨 NEW POST FOUND - Author: imbianca49, Post ID: 7483210169862769925
+2025-05-29T04:51:17.516Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471924772209773867
+2025-05-29T04:51:17.832Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471924204397628718
+2025-05-29T04:51:17.870Z - 🚨 NEW POST FOUND - Author: imbianca49, Post ID: 7483210060882005253
+2025-05-29T04:51:18.198Z - 🚨 NEW POST FOUND - Author: imbianca49, Post ID: 7483209960889896247
+2025-05-29T04:51:18.256Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471648519569394990
+2025-05-29T04:51:18.469Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471647602317069611
+2025-05-29T04:51:18.912Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471640404543163690
+2025-05-29T04:51:19.117Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471639944381910318
+2025-05-29T04:51:19.284Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471639360568429867
+2025-05-29T04:51:19.760Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471636661877607726
+2025-05-29T04:51:19.967Z - 🚨 NEW POST FOUND - Author: salenaalwaris, Post ID: 7471636096854543662
+2025-05-29T04:54:12.951Z - 
+=== Starting New Check ===
+2025-05-29T04:54:23.330Z - Error processing user kenzieee536: HTTP error! status: 429
+2025-05-29T04:54:23.365Z - Error processing user kazitrwun3c: HTTP error! status: 429
+2025-05-29T04:54:23.389Z - Error processing user emmabubbly: HTTP error! status: 429
+2025-05-29T04:54:23.423Z - Error processing user jessicaaa.rae8: HTTP error! status: 429
+2025-05-29T04:54:23.448Z - Error processing user saveta.k: HTTP error! status: 429
+2025-05-29T04:54:23.455Z - Error processing user simmy.hills: HTTP error! status: 429
+2025-05-29T04:54:23.480Z - Error processing user kiya.tr: HTTP error! status: 429
+2025-05-29T04:54:23.481Z - Error processing user madzzzz671: HTTP error! status: 429
+2025-05-29T04:54:23.482Z - Error processing user meeriina6a: HTTP error! status: 429
+2025-05-29T04:54:23.484Z - Error processing user jordanbrookss: HTTP error! status: 429
+2025-05-29T04:54:23.507Z - Error processing user scarlettbuys: HTTP error! status: 429
+2025-05-29T04:54:23.517Z - Error processing user doordashrewardz: HTTP error! status: 429
+2025-05-29T04:54:23.539Z - Error processing user brendasd89: HTTP error! status: 429
+2025-05-29T04:54:23.540Z - Error processing user alexaaj7: HTTP error! status: 429
+2025-05-29T04:54:23.541Z - Error processing user juliamuvv: HTTP error! status: 429
+2025-05-29T04:54:23.547Z - Error processing user zayana.03: HTTP error! status: 429
+2025-05-29T04:54:23.565Z - Error processing user pontiac.made: HTTP error! status: 429
+2025-05-29T04:54:23.578Z - Error processing user allievisions: HTTP error! status: 429
+2025-05-29T04:54:23.595Z - Error processing user b3.synn: HTTP error! status: 429
+2025-05-29T04:54:23.599Z - Error processing user poppybqo8vy: HTTP error! status: 429
+2025-05-29T04:54:23.602Z - Error processing user wifeyleyla: HTTP error! status: 429
+2025-05-29T04:54:23.607Z - Error processing user spenceeecheatcodes: HTTP error! status: 429
+2025-05-29T04:54:23.624Z - Error processing user leanortiizzz: HTTP error! status: 429
+2025-05-29T04:54:23.626Z - Error processing user eboney146: HTTP error! status: 429
+2025-05-29T04:54:23.639Z - Error processing user notisaaescuu: HTTP error! status: 429
+2025-05-29T04:54:23.657Z - Error processing user jayceedomi: HTTP error! status: 429
+2025-05-29T04:54:23.663Z - Error processing user liz37120: HTTP error! status: 429
+2025-05-29T04:54:23.669Z - Error processing user dealsplug_: HTTP error! status: 429
+2025-05-29T04:54:23.683Z - Error processing user sereneee80: HTTP error! status: 429
+2025-05-29T04:54:23.684Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:54:23.690Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:54:23.720Z - Error processing user pamsspammss: HTTP error! status: 429
+2025-05-29T04:54:23.722Z - Error processing user ash.l19999: HTTP error! status: 429
+2025-05-29T04:54:23.730Z - Error processing user rose_does0: HTTP error! status: 429
+2025-05-29T04:54:23.742Z - Error processing user holly.lawxx: HTTP error! status: 429
+2025-05-29T04:54:23.744Z - Error processing user sovannass: HTTP error! status: 429
+2025-05-29T04:54:23.746Z - Error processing user alasdairfiftyfift: HTTP error! status: 429
+2025-05-29T04:54:23.750Z - Error processing user avaalfardo90: HTTP error! status: 429
+2025-05-29T04:54:23.754Z - Error processing user 3vaa1a: HTTP error! status: 429
+2025-05-29T04:54:23.783Z - Error processing user delazhdurrk: HTTP error! status: 429
+2025-05-29T04:54:23.785Z - Error processing user melissaaa455: HTTP error! status: 429
+2025-05-29T04:54:23.800Z - Error processing user tierra7006: HTTP error! status: 429
+2025-05-29T04:54:23.800Z - Error processing user foodiegirlclaudia: HTTP error! status: 429
+2025-05-29T04:54:23.804Z - Error processing user jessica.matthews840: HTTP error! status: 429
+2025-05-29T04:54:23.808Z - Error processing user eemyguelphy: HTTP error! status: 429
+2025-05-29T04:54:23.812Z - Error processing user juliafries28: HTTP error! status: 429
+2025-05-29T04:54:23.815Z - Error processing user juliebaby5363: HTTP error! status: 429
+2025-05-29T04:54:23.831Z - Error processing user amayaaa7447: HTTP error! status: 429
+2025-05-29T04:54:23.843Z - Error processing user b2.synn: HTTP error! status: 429
+2025-05-29T04:54:23.846Z - Error processing user mad.jsn: HTTP error! status: 429
+2025-05-29T04:54:23.857Z - Error processing user wendolyn.ortiz.s: HTTP error! status: 429
+2025-05-29T04:54:23.860Z - Error processing user morealishax: HTTP error! status: 429
+2025-05-29T04:54:23.863Z - Error processing user wendolynortizzx: HTTP error! status: 429
+2025-05-29T04:54:23.865Z - Error processing user violet.robinsonnn: HTTP error! status: 429
+2025-05-29T04:54:23.871Z - Error processing user chrliepr: HTTP error! status: 429
+2025-05-29T04:54:23.876Z - Error processing user annie_pope: HTTP error! status: 429
+2025-05-29T04:54:23.899Z - Error processing user shelbygiaperry: HTTP error! status: 429
+2025-05-29T04:54:23.906Z - Error processing user the_bob64: HTTP error! status: 429
+2025-05-29T04:54:23.908Z - Error processing user ashblanc2: HTTP error! status: 429
+2025-05-29T04:54:23.911Z - Error processing user maiiiaknighttt: HTTP error! status: 429
+2025-05-29T04:54:23.918Z - Error processing user maya_candyyy: HTTP error! status: 429
+2025-05-29T04:54:23.920Z - Error processing user tatumroseee: HTTP error! status: 429
+2025-05-29T04:54:23.929Z - Error processing user maya_candee: HTTP error! status: 429
+2025-05-29T04:54:23.930Z - Error processing user jessicaglint: HTTP error! status: 429
+2025-05-29T04:54:23.944Z - Error processing user kaylamoris33: HTTP error! status: 429
+2025-05-29T04:54:23.963Z - Error processing user theryanfamily0: HTTP error! status: 429
+2025-05-29T04:54:23.965Z - Error processing user sadieelm5xs: HTTP error! status: 429
+2025-05-29T04:54:23.968Z - Error processing user qibojaze13k: HTTP error! status: 429
+2025-05-29T04:54:23.981Z - Error processing user lauradarings: HTTP error! status: 429
+2025-05-29T04:54:23.989Z - Error processing user beautykayla5: HTTP error! status: 429
+2025-05-29T04:54:23.990Z - Error processing user skinpeelingoff: HTTP error! status: 429
+2025-05-29T04:54:24.021Z - Error processing user maiiiaknightt: HTTP error! status: 429
+2025-05-29T04:54:24.025Z - Error processing user maya_malonee: HTTP error! status: 429
+2025-05-29T04:54:24.026Z - Error processing user shariinnaa: HTTP error! status: 429
+2025-05-29T04:54:24.031Z - Error processing user miaklss: HTTP error! status: 429
+2025-05-29T04:54:24.035Z - Error processing user serenapagexx: HTTP error! status: 429
+2025-05-29T04:54:24.041Z - Error processing user serenapagex: HTTP error! status: 429
+2025-05-29T04:54:24.052Z - Error processing user chriseanrockbabyz: HTTP error! status: 429
+2025-05-29T04:54:24.055Z - Error processing user bekahelliseeee: HTTP error! status: 429
+2025-05-29T04:54:24.078Z - Error processing user delazahburkk09: HTTP error! status: 429
+2025-05-29T04:54:24.081Z - Error processing user pamelapedrosaa: HTTP error! status: 429
+2025-05-29T04:54:24.086Z - Error processing user rorie8992: HTTP error! status: 429
+2025-05-29T04:54:24.095Z - Error processing user notlexila: HTTP error! status: 429
+2025-05-29T04:54:24.097Z - Error processing user audrey.ausg: HTTP error! status: 429
+2025-05-29T04:54:24.103Z - Error processing user emilyreallydgaf: HTTP error! status: 429
+2025-05-29T04:54:24.113Z - Error processing user avadenise99: HTTP error! status: 429
+2025-05-29T04:54:24.114Z - Error processing user skylarrjanee: HTTP error! status: 429
+2025-05-29T04:54:24.132Z - Error processing user emmasmithh003: HTTP error! status: 429
+2025-05-29T04:54:24.136Z - Error processing user larahaulzz: HTTP error! status: 429
+2025-05-29T04:54:24.148Z - Error processing user petermccloskey6: HTTP error! status: 429
+2025-05-29T04:54:24.151Z - Error processing user rosiepoppyf: HTTP error! status: 429
+2025-05-29T04:54:24.154Z - Error processing user courtneyyslay: HTTP error! status: 429
+2025-05-29T04:54:24.157Z - Error processing user amandasolisspm: HTTP error! status: 429
+2025-05-29T04:54:24.165Z - Error processing user janeeeewl7: HTTP error! status: 429
+2025-05-29T04:54:24.172Z - Error processing user heeyitsfaye: HTTP error! status: 429
+2025-05-29T04:54:24.176Z - Error processing user lianapxiop4: HTTP error! status: 429
+2025-05-29T04:54:24.186Z - Error processing user lindarodriguezz0: HTTP error! status: 429
+2025-05-29T04:54:24.193Z - Error processing user helenharris_: HTTP error! status: 429
+2025-05-29T04:54:24.207Z - Error processing user yannaa.life: HTTP error! status: 429
+2025-05-29T04:54:24.209Z - Error processing user tarayummyaz: HTTP error! status: 429
+2025-05-29T04:54:24.214Z - Error processing user lexi2hawt: HTTP error! status: 429
+2025-05-29T04:54:24.215Z - Error processing user camlollz1: HTTP error! status: 429
+2025-05-29T04:54:24.229Z - Error processing user kidetytt: HTTP error! status: 429
+2025-05-29T04:54:24.561Z - Batch completed in 11.61 seconds
+2025-05-29T04:54:24.561Z - Processed 299 users, found 0 new posts
+2025-05-29T04:55:12.952Z - 
+=== Starting New Check ===
+2025-05-29T04:55:22.256Z - Error processing user nicole.lily28: HTTP error! status: 429
+2025-05-29T04:55:22.320Z - Error processing user marleynotra: HTTP error! status: 429
+2025-05-29T04:55:22.351Z - Error processing user sofianunce: HTTP error! status: 429
+2025-05-29T04:55:22.383Z - Error processing user cadencejadee: HTTP error! status: 429
+2025-05-29T04:55:22.414Z - Error processing user heyyashleyyy0: HTTP error! status: 429
+2025-05-29T04:55:22.426Z - Error processing user heidimonroe_: HTTP error! status: 429
+2025-05-29T04:55:22.443Z - Error processing user mia.williamss99: HTTP error! status: 429
+2025-05-29T04:55:22.477Z - Error processing user laurenhoneybee: HTTP error! status: 429
+2025-05-29T04:55:22.481Z - Error processing user notjackielolll: HTTP error! status: 429
+2025-05-29T04:55:22.503Z - Error processing user kathyyyy52: HTTP error! status: 429
+2025-05-29T04:55:22.513Z - Error processing user rosiehasleyy: HTTP error! status: 429
+2025-05-29T04:55:22.532Z - Error processing user notdefinitelyzoe: HTTP error! status: 429
+2025-05-29T04:55:22.539Z - Error processing user marialw00: HTTP error! status: 429
+2025-05-29T04:55:22.571Z - Error processing user melvina.sanchez: HTTP error! status: 429
+2025-05-29T04:55:22.579Z - Error processing user divysecrets: HTTP error! status: 429
+2025-05-29T04:55:22.599Z - Error processing user easymoneylock: HTTP error! status: 429
+2025-05-29T04:55:22.600Z - Error processing user kenzieee536: HTTP error! status: 429
+2025-05-29T04:55:22.632Z - Error processing user kazitrwun3c: HTTP error! status: 429
+2025-05-29T04:55:22.655Z - Error processing user jessicaaa.rae8: HTTP error! status: 429
+2025-05-29T04:55:22.656Z - Error processing user saveta.k: HTTP error! status: 429
+2025-05-29T04:55:22.694Z - Error processing user simmy.hills: HTTP error! status: 429
+2025-05-29T04:55:22.700Z - Error processing user emmabubbly: HTTP error! status: 429
+2025-05-29T04:55:22.720Z - Error processing user madzzzz671: HTTP error! status: 429
+2025-05-29T04:55:22.721Z - Error processing user kiya.tr: HTTP error! status: 429
+2025-05-29T04:55:22.725Z - Error processing user jordanbrookss: HTTP error! status: 429
+2025-05-29T04:55:22.755Z - Error processing user meeriina6a: HTTP error! status: 429
+2025-05-29T04:55:22.761Z - Error processing user scarlettbuys: HTTP error! status: 429
+2025-05-29T04:55:22.762Z - Error processing user doordashrewardz: HTTP error! status: 429
+2025-05-29T04:55:22.777Z - Error processing user juliamuvv: HTTP error! status: 429
+2025-05-29T04:55:22.777Z - Error processing user alexaaj7: HTTP error! status: 429
+2025-05-29T04:55:22.781Z - Error processing user brendasd89: HTTP error! status: 429
+2025-05-29T04:55:22.819Z - Error processing user pontiac.made: HTTP error! status: 429
+2025-05-29T04:55:22.820Z - Error processing user allievisions: HTTP error! status: 429
+2025-05-29T04:55:22.826Z - Error processing user zayana.03: HTTP error! status: 429
+2025-05-29T04:55:22.833Z - Error processing user poppybqo8vy: HTTP error! status: 429
+2025-05-29T04:55:22.836Z - Error processing user spenceeecheatcodes: HTTP error! status: 429
+2025-05-29T04:55:22.866Z - Error processing user leanortiizzz: HTTP error! status: 429
+2025-05-29T04:55:22.876Z - Error processing user eboney146: HTTP error! status: 429
+2025-05-29T04:55:22.876Z - Error processing user notisaaescuu: HTTP error! status: 429
+2025-05-29T04:55:22.889Z - Error processing user jayceedomi: HTTP error! status: 429
+2025-05-29T04:55:22.891Z - Error processing user liz37120: HTTP error! status: 429
+2025-05-29T04:55:22.926Z - Error processing user dealsplug_: HTTP error! status: 429
+2025-05-29T04:55:22.935Z - Error processing user sereneee80: HTTP error! status: 429
+2025-05-29T04:55:22.936Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:55:22.939Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:55:22.947Z - Error processing user pamsspammss: HTTP error! status: 429
+2025-05-29T04:55:22.952Z - Error processing user danasecretspam: HTTP error! status: 429
+2025-05-29T04:55:22.955Z - Error processing user 3vaa1a: HTTP error! status: 429
+2025-05-29T04:55:22.986Z - Error processing user ash.l19999: HTTP error! status: 429
+2025-05-29T04:55:22.990Z - Error processing user holly.lawxx: HTTP error! status: 429
+2025-05-29T04:55:22.994Z - Error processing user rose_does0: HTTP error! status: 429
+2025-05-29T04:55:22.994Z - Error processing user alasdairfiftyfift: HTTP error! status: 429
+2025-05-29T04:55:22.996Z - Error processing user sovannass: HTTP error! status: 429
+2025-05-29T04:55:23.003Z - Error processing user avaalfardo90: HTTP error! status: 429
+2025-05-29T04:55:23.010Z - Error processing user melissaaa455: HTTP error! status: 429
+2025-05-29T04:55:23.011Z - Error processing user delazhdurrk: HTTP error! status: 429
+2025-05-29T04:55:23.047Z - Error processing user amayaaa7447: HTTP error! status: 429
+2025-05-29T04:55:23.047Z - Error processing user tierra7006: HTTP error! status: 429
+2025-05-29T04:55:23.050Z - Error processing user foodiegirlclaudia: HTTP error! status: 429
+2025-05-29T04:55:23.053Z - Error processing user juliafries28: HTTP error! status: 429
+2025-05-29T04:55:23.054Z - Error processing user jessica.matthews840: HTTP error! status: 429
+2025-05-29T04:55:23.058Z - Error processing user eemyguelphy: HTTP error! status: 429
+2025-05-29T04:55:23.066Z - Error processing user mad.jsn: HTTP error! status: 429
+2025-05-29T04:55:23.070Z - Error processing user juliebaby5363: HTTP error! status: 429
+2025-05-29T04:55:23.103Z - Error processing user morealishax: HTTP error! status: 429
+2025-05-29T04:55:23.108Z - Error processing user b2.synn: HTTP error! status: 429
+2025-05-29T04:55:23.109Z - Error processing user violet.robinsonnn: HTTP error! status: 429
+2025-05-29T04:55:23.109Z - Error processing user wendolyn.ortiz.s: HTTP error! status: 429
+2025-05-29T04:55:23.113Z - Error processing user chrliepr: HTTP error! status: 429
+2025-05-29T04:55:23.116Z - Error processing user wendolynortizzx: HTTP error! status: 429
+2025-05-29T04:55:23.121Z - Error processing user annie_pope: HTTP error! status: 429
+2025-05-29T04:55:23.128Z - Error processing user shelbygiaperry: HTTP error! status: 429
+2025-05-29T04:55:23.160Z - Error processing user the_bob64: HTTP error! status: 429
+2025-05-29T04:55:23.163Z - Error processing user maiiiaknighttt: HTTP error! status: 429
+2025-05-29T04:55:23.165Z - Error processing user ashblanc2: HTTP error! status: 429
+2025-05-29T04:55:23.168Z - Error processing user maya_candyyy: HTTP error! status: 429
+2025-05-29T04:55:23.170Z - Error processing user tatumroseee: HTTP error! status: 429
+2025-05-29T04:55:23.177Z - Error processing user jessicaglint: HTTP error! status: 429
+2025-05-29T04:55:23.177Z - Error processing user maya_candee: HTTP error! status: 429
+2025-05-29T04:55:23.186Z - Error processing user kaylamoris33: HTTP error! status: 429
+2025-05-29T04:55:23.217Z - Error processing user theryanfamily0: HTTP error! status: 429
+2025-05-29T04:55:23.221Z - Error processing user miaklss: HTTP error! status: 429
+2025-05-29T04:55:23.223Z - Error processing user qibojaze13k: HTTP error! status: 429
+2025-05-29T04:55:23.227Z - Error processing user sadieelm5xs: HTTP error! status: 429
+2025-05-29T04:55:23.231Z - Error processing user skinpeelingoff: HTTP error! status: 429
+2025-05-29T04:55:23.235Z - Error processing user shariinnaa: HTTP error! status: 429
+2025-05-29T04:55:23.239Z - Error processing user lauradarings: HTTP error! status: 429
+2025-05-29T04:55:23.247Z - Error processing user beautykayla5: HTTP error! status: 429
+2025-05-29T04:55:23.260Z - Error processing user emma.jonessss1: HTTP error! status: 429
+2025-05-29T04:55:23.273Z - Error processing user maya_malonee: HTTP error! status: 429
+2025-05-29T04:55:23.276Z - Error processing user maiiiaknightt: HTTP error! status: 429
+2025-05-29T04:55:23.278Z - Error processing user serenapagexx: HTTP error! status: 429
+2025-05-29T04:55:23.283Z - Error processing user serenapagex: HTTP error! status: 429
+2025-05-29T04:55:23.285Z - Error processing user bekahelliseeee: HTTP error! status: 429
+2025-05-29T04:55:23.293Z - Error processing user chriseanrockbabyz: HTTP error! status: 429
+2025-05-29T04:55:23.301Z - Error processing user delazahburkk09: HTTP error! status: 429
+2025-05-29T04:55:23.307Z - Error processing user rorie8992: HTTP error! status: 429
+2025-05-29T04:55:23.317Z - Error processing user pamelapedrosaa: HTTP error! status: 429
+2025-05-29T04:55:23.330Z - Error processing user notlexila: HTTP error! status: 429
+2025-05-29T04:55:23.331Z - Error processing user audrey.ausg: HTTP error! status: 429
+2025-05-29T04:55:23.342Z - Error processing user avadenise99: HTTP error! status: 429
+2025-05-29T04:55:23.343Z - Error processing user skylarrjanee: HTTP error! status: 429
+2025-05-29T04:55:23.343Z - Error processing user emilyreallydgaf: HTTP error! status: 429
+2025-05-29T04:55:23.354Z - Error processing user emmasmithh003: HTTP error! status: 429
+2025-05-29T04:55:23.364Z - Error processing user larahaulzz: HTTP error! status: 429
+2025-05-29T04:55:23.368Z - Error processing user petermccloskey6: HTTP error! status: 429
+2025-05-29T04:55:23.384Z - Error processing user courtneyyslay: HTTP error! status: 429
+2025-05-29T04:55:23.387Z - Error processing user rosiepoppyf: HTTP error! status: 429
+2025-05-29T04:55:23.389Z - Error processing user amandasolisspm: HTTP error! status: 429
+2025-05-29T04:55:23.399Z - Error processing user lianapxiop4: HTTP error! status: 429
+2025-05-29T04:55:23.401Z - Error processing user heeyitsfaye: HTTP error! status: 429
+2025-05-29T04:55:23.404Z - Error processing user janeeeewl7: HTTP error! status: 429
+2025-05-29T04:55:23.413Z - Error processing user lindarodriguezz0: HTTP error! status: 429
+2025-05-29T04:55:23.427Z - Error processing user helenharris_: HTTP error! status: 429
+2025-05-29T04:55:23.427Z - Error processing user yannaa.life: HTTP error! status: 429
+2025-05-29T04:55:23.445Z - Error processing user lexi2hawt: HTTP error! status: 429
+2025-05-29T04:55:23.447Z - Error processing user camlollz1: HTTP error! status: 429
+2025-05-29T04:55:23.460Z - Error processing user kidetytt: HTTP error! status: 429
+2025-05-29T04:55:23.788Z - Batch completed in 10.835 seconds
+2025-05-29T04:55:23.788Z - Processed 299 users, found 0 new posts
+2025-05-29T04:56:12.960Z - 
+=== Starting New Check ===
+2025-05-29T04:56:22.902Z - Error processing user notdefinitelyzoe: HTTP error! status: 429
+2025-05-29T04:56:22.931Z - Error processing user chloe0xx: HTTP error! status: 429
+2025-05-29T04:56:22.965Z - Error processing user marialw00: HTTP error! status: 429
+2025-05-29T04:56:22.996Z - Error processing user melvina.sanchez: HTTP error! status: 429
+2025-05-29T04:56:23.014Z - Error processing user divysecrets: HTTP error! status: 429
+2025-05-29T04:56:23.027Z - Error processing user easymoneylock: HTTP error! status: 429
+2025-05-29T04:56:23.059Z - Error processing user kenzieee536: HTTP error! status: 429
+2025-05-29T04:56:23.090Z - Error processing user emmabubbly: HTTP error! status: 429
+2025-05-29T04:56:23.128Z - Error processing user jessicaaa.rae8: HTTP error! status: 429
+2025-05-29T04:56:23.133Z - Error processing user saveta.k: HTTP error! status: 429
+2025-05-29T04:56:23.152Z - Error processing user simmy.hills: HTTP error! status: 429
+2025-05-29T04:56:23.187Z - Error processing user kiya.tr: HTTP error! status: 429
+2025-05-29T04:56:23.195Z - Error processing user madzzzz671: HTTP error! status: 429
+2025-05-29T04:56:23.197Z - Error processing user jordanbrookss: HTTP error! status: 429
+2025-05-29T04:56:23.214Z - Error processing user meeriina6a: HTTP error! status: 429
+2025-05-29T04:56:23.245Z - Error processing user scarlettbuys: HTTP error! status: 429
+2025-05-29T04:56:23.248Z - Error processing user doordashrewardz: HTTP error! status: 429
+2025-05-29T04:56:23.258Z - Error processing user juliamuvv: HTTP error! status: 429
+2025-05-29T04:56:23.258Z - Error processing user alexaaj7: HTTP error! status: 429
+2025-05-29T04:56:23.264Z - Error processing user brendasd89: HTTP error! status: 429
+2025-05-29T04:56:23.276Z - Error processing user zayana.03: HTTP error! status: 429
+2025-05-29T04:56:23.303Z - Error processing user allievisions: HTTP error! status: 429
+2025-05-29T04:56:23.304Z - Error processing user pontiac.made: HTTP error! status: 429
+2025-05-29T04:56:23.321Z - Error processing user wifeyleyla: HTTP error! status: 429
+2025-05-29T04:56:23.325Z - Error processing user poppybqo8vy: HTTP error! status: 429
+2025-05-29T04:56:23.325Z - Error processing user b3.synn: HTTP error! status: 429
+2025-05-29T04:56:23.326Z - Error processing user spenceeecheatcodes: HTTP error! status: 429
+2025-05-29T04:56:23.339Z - Error processing user leanortiizzz: HTTP error! status: 429
+2025-05-29T04:56:23.360Z - Error processing user notisaaescuu: HTTP error! status: 429
+2025-05-29T04:56:23.363Z - Error processing user eboney146: HTTP error! status: 429
+2025-05-29T04:56:23.382Z - Error processing user sereneee80: HTTP error! status: 429
+2025-05-29T04:56:23.384Z - Error processing user jayceedomi: HTTP error! status: 429
+2025-05-29T04:56:23.385Z - Error processing user danasecretspam: HTTP error! status: 429
+2025-05-29T04:56:23.387Z - Error processing user liz37120: HTTP error! status: 429
+2025-05-29T04:56:23.389Z - Error processing user dealsplug_: HTTP error! status: 429
+2025-05-29T04:56:23.400Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:56:23.421Z - Error processing user pamsspammss: HTTP error! status: 429
+2025-05-29T04:56:23.426Z - Error processing user 3vaa1a: HTTP error! status: 429
+2025-05-29T04:56:23.442Z - Error processing user holly.lawxx: HTTP error! status: 429
+2025-05-29T04:56:23.445Z - Error processing user ash.l19999: HTTP error! status: 429
+2025-05-29T04:56:23.446Z - Error processing user rose_does0: HTTP error! status: 429
+2025-05-29T04:56:23.450Z - Error processing user alasdairfiftyfift: HTTP error! status: 429
+2025-05-29T04:56:23.453Z - Error processing user sovannass: HTTP error! status: 429
+2025-05-29T04:56:23.463Z - Error processing user avaalfardo90: HTTP error! status: 429
+2025-05-29T04:56:23.482Z - Error processing user delazhdurrk: HTTP error! status: 429
+2025-05-29T04:56:23.482Z - Error processing user melissaaa455: HTTP error! status: 429
+2025-05-29T04:56:23.499Z - Error processing user tierra7006: HTTP error! status: 429
+2025-05-29T04:56:23.505Z - Error processing user amayaaa7447: HTTP error! status: 429
+2025-05-29T04:56:23.513Z - Error processing user foodiegirlclaudia: HTTP error! status: 429
+2025-05-29T04:56:23.517Z - Error processing user eemyguelphy: HTTP error! status: 429
+2025-05-29T04:56:23.518Z - Error processing user juliafries28: HTTP error! status: 429
+2025-05-29T04:56:23.530Z - Error processing user juliebaby5363: HTTP error! status: 429
+2025-05-29T04:56:23.539Z - Error processing user mad.jsn: HTTP error! status: 429
+2025-05-29T04:56:23.557Z - Error processing user morealishax: HTTP error! status: 429
+2025-05-29T04:56:23.562Z - Error processing user wendolyn.ortiz.s: HTTP error! status: 429
+2025-05-29T04:56:23.562Z - Error processing user jessica.matthews840: HTTP error! status: 429
+2025-05-29T04:56:23.576Z - Error processing user violet.robinsonnn: HTTP error! status: 429
+2025-05-29T04:56:23.578Z - Error processing user chrliepr: HTTP error! status: 429
+2025-05-29T04:56:23.580Z - Error processing user wendolynortizzx: HTTP error! status: 429
+2025-05-29T04:56:23.592Z - Error processing user annie_pope: HTTP error! status: 429
+2025-05-29T04:56:23.595Z - Error processing user shelbygiaperry: HTTP error! status: 429
+2025-05-29T04:56:23.614Z - Error processing user the_bob64: HTTP error! status: 429
+2025-05-29T04:56:23.617Z - Error processing user ashblanc2: HTTP error! status: 429
+2025-05-29T04:56:23.620Z - Error processing user b2.synn: HTTP error! status: 429
+2025-05-29T04:56:23.637Z - Error processing user maiiiaknighttt: HTTP error! status: 429
+2025-05-29T04:56:23.639Z - Error processing user tatumroseee: HTTP error! status: 429
+2025-05-29T04:56:23.640Z - Error processing user maya_candyyy: HTTP error! status: 429
+2025-05-29T04:56:23.646Z - Error processing user maya_candee: HTTP error! status: 429
+2025-05-29T04:56:23.652Z - Error processing user kaylamoris33: HTTP error! status: 429
+2025-05-29T04:56:23.654Z - Error processing user jessicaglint: HTTP error! status: 429
+2025-05-29T04:56:23.672Z - Error processing user theryanfamily0: HTTP error! status: 429
+2025-05-29T04:56:23.673Z - Error processing user miaklss: HTTP error! status: 429
+2025-05-29T04:56:23.687Z - Error processing user qibojaze13k: HTTP error! status: 429
+2025-05-29T04:56:23.700Z - Error processing user sadieelm5xs: HTTP error! status: 429
+2025-05-29T04:56:23.700Z - Error processing user lauradarings: HTTP error! status: 429
+2025-05-29T04:56:23.709Z - Error processing user beautykayla5: HTTP error! status: 429
+2025-05-29T04:56:23.710Z - Error processing user skinpeelingoff: HTTP error! status: 429
+2025-05-29T04:56:23.715Z - Error processing user emma.jonessss1: HTTP error! status: 429
+2025-05-29T04:56:23.717Z - Error processing user shariinnaa: HTTP error! status: 429
+2025-05-29T04:56:23.730Z - Error processing user maya_malonee: HTTP error! status: 429
+2025-05-29T04:56:23.747Z - Error processing user serenapagexx: HTTP error! status: 429
+2025-05-29T04:56:23.760Z - Error processing user serenapagex: HTTP error! status: 429
+2025-05-29T04:56:23.764Z - Error processing user bekahelliseeee: HTTP error! status: 429
+2025-05-29T04:56:23.766Z - Error processing user chriseanrockbabyz: HTTP error! status: 429
+2025-05-29T04:56:23.773Z - Error processing user delazahburkk09: HTTP error! status: 429
+2025-05-29T04:56:23.777Z - Error processing user rorie8992: HTTP error! status: 429
+2025-05-29T04:56:23.785Z - Error processing user pamelapedrosaa: HTTP error! status: 429
+2025-05-29T04:56:23.787Z - Error processing user audrey.ausg: HTTP error! status: 429
+2025-05-29T04:56:23.812Z - Error processing user notlexila: HTTP error! status: 429
+2025-05-29T04:56:23.821Z - Error processing user emilyreallydgaf: HTTP error! status: 429
+2025-05-29T04:56:23.822Z - Error processing user skylarrjanee: HTTP error! status: 429
+2025-05-29T04:56:23.826Z - Error processing user avadenise99: HTTP error! status: 429
+2025-05-29T04:56:23.837Z - Error processing user emmasmithh003: HTTP error! status: 429
+2025-05-29T04:56:23.839Z - Error processing user larahaulzz: HTTP error! status: 429
+2025-05-29T04:56:23.844Z - Error processing user courtneyyslay: HTTP error! status: 429
+2025-05-29T04:56:23.847Z - Error processing user petermccloskey6: HTTP error! status: 429
+2025-05-29T04:56:23.885Z - Error processing user janeeeewl7: HTTP error! status: 429
+2025-05-29T04:56:23.890Z - Error processing user lianapxiop4: HTTP error! status: 429
+2025-05-29T04:56:23.892Z - Error processing user heeyitsfaye: HTTP error! status: 429
+2025-05-29T04:56:23.902Z - Error processing user rosiepoppyf: HTTP error! status: 429
+2025-05-29T04:56:23.902Z - Error processing user lindarodriguezz0: HTTP error! status: 429
+2025-05-29T04:56:23.903Z - Error processing user amandasolisspm: HTTP error! status: 429
+2025-05-29T04:56:23.903Z - Error processing user yannaa.life: HTTP error! status: 429
+2025-05-29T04:56:23.903Z - Error processing user helenharris_: HTTP error! status: 429
+2025-05-29T04:56:23.910Z - Error processing user tarayummyaz: HTTP error! status: 429
+2025-05-29T04:56:23.948Z - Error processing user lexi2hawt: HTTP error! status: 429
+2025-05-29T04:56:23.953Z - Error processing user camlollz1: HTTP error! status: 429
+2025-05-29T04:56:23.962Z - Error processing user kidetytt: HTTP error! status: 429
+2025-05-29T04:56:24.113Z - Batch completed in 11.152 seconds
+2025-05-29T04:56:24.114Z - Processed 299 users, found 0 new posts
+2025-05-29T04:57:12.976Z - 
+=== Starting New Check ===
+2025-05-29T04:57:22.603Z - Error processing user heyyashleyyy0: HTTP error! status: 429
+2025-05-29T04:57:22.658Z - Error processing user heidimonroe_: HTTP error! status: 429
+2025-05-29T04:57:22.701Z - Error processing user mia.williamss99: HTTP error! status: 429
+2025-05-29T04:57:22.720Z - Error processing user laurenhoneybee: HTTP error! status: 429
+2025-05-29T04:57:22.742Z - Error processing user notjackielolll: HTTP error! status: 429
+2025-05-29T04:57:22.760Z - Error processing user kathyyyy52: HTTP error! status: 429
+2025-05-29T04:57:22.780Z - Error processing user notdefinitelyzoe: HTTP error! status: 429
+2025-05-29T04:57:22.788Z - Error processing user rosiehasleyy: HTTP error! status: 429
+2025-05-29T04:57:22.796Z - Error processing user chloe0xx: HTTP error! status: 429
+2025-05-29T04:57:22.820Z - Error processing user melvina.sanchez: HTTP error! status: 429
+2025-05-29T04:57:22.830Z - Error processing user divysecrets: HTTP error! status: 429
+2025-05-29T04:57:22.841Z - Error processing user easymoneylock: HTTP error! status: 429
+2025-05-29T04:57:22.849Z - Error processing user kenzieee536: HTTP error! status: 429
+2025-05-29T04:57:22.858Z - Error processing user kazitrwun3c: HTTP error! status: 429
+2025-05-29T04:57:22.882Z - Error processing user emmabubbly: HTTP error! status: 429
+2025-05-29T04:57:22.888Z - Error processing user jessicaaa.rae8: HTTP error! status: 429
+2025-05-29T04:57:22.894Z - Error processing user saveta.k: HTTP error! status: 429
+2025-05-29T04:57:22.899Z - Error processing user simmy.hills: HTTP error! status: 429
+2025-05-29T04:57:22.922Z - Error processing user kiya.tr: HTTP error! status: 429
+2025-05-29T04:57:22.926Z - Error processing user jordanbrookss: HTTP error! status: 429
+2025-05-29T04:57:22.945Z - Error processing user meeriina6a: HTTP error! status: 429
+2025-05-29T04:57:22.953Z - Error processing user scarlettbuys: HTTP error! status: 429
+2025-05-29T04:57:22.956Z - Error processing user madzzzz671: HTTP error! status: 429
+2025-05-29T04:57:22.958Z - Error processing user doordashrewardz: HTTP error! status: 429
+2025-05-29T04:57:22.988Z - Error processing user alexaaj7: HTTP error! status: 429
+2025-05-29T04:57:22.989Z - Error processing user juliamuvv: HTTP error! status: 429
+2025-05-29T04:57:23.003Z - Error processing user brendasd89: HTTP error! status: 429
+2025-05-29T04:57:23.012Z - Error processing user zayana.03: HTTP error! status: 429
+2025-05-29T04:57:23.015Z - Error processing user pontiac.made: HTTP error! status: 429
+2025-05-29T04:57:23.016Z - Error processing user allievisions: HTTP error! status: 429
+2025-05-29T04:57:23.050Z - Error processing user wifeyleyla: HTTP error! status: 429
+2025-05-29T04:57:23.051Z - Error processing user b3.synn: HTTP error! status: 429
+2025-05-29T04:57:23.060Z - Error processing user poppybqo8vy: HTTP error! status: 429
+2025-05-29T04:57:23.071Z - Error processing user spenceeecheatcodes: HTTP error! status: 429
+2025-05-29T04:57:23.074Z - Error processing user leanortiizzz: HTTP error! status: 429
+2025-05-29T04:57:23.075Z - Error processing user eboney146: HTTP error! status: 429
+2025-05-29T04:57:23.113Z - Error processing user danasecretspam: HTTP error! status: 429
+2025-05-29T04:57:23.114Z - Error processing user jayceedomi: HTTP error! status: 429
+2025-05-29T04:57:23.121Z - Error processing user liz37120: HTTP error! status: 429
+2025-05-29T04:57:23.130Z - Error processing user dealsplug_: HTTP error! status: 429
+2025-05-29T04:57:23.134Z - Error processing user sereneee80: HTTP error! status: 429
+2025-05-29T04:57:23.137Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:57:23.139Z - Error processing user stella.stark354: HTTP error! status: 429
+2025-05-29T04:57:23.171Z - Error processing user 3vaa1a: HTTP error! status: 429
+2025-05-29T04:57:23.176Z - Error processing user pamsspammss: HTTP error! status: 429
+2025-05-29T04:57:23.177Z - Error processing user ash.l19999: HTTP error! status: 429
+2025-05-29T04:57:23.188Z - Error processing user rose_does0: HTTP error! status: 429
+2025-05-29T04:57:23.193Z - Error processing user holly.lawxx: HTTP error! status: 429
+2025-05-29T04:57:23.195Z - Error processing user alasdairfiftyfift: HTTP error! status: 429
+2025-05-29T04:57:23.202Z - Error processing user sovannass: HTTP error! status: 429
+2025-05-29T04:57:23.228Z - Error processing user avaalfardo90: HTTP error! status: 429
+2025-05-29T04:57:23.235Z - Error processing user delazhdurrk: HTTP error! status: 429
+2025-05-29T04:57:23.238Z - Error processing user melissaaa455: HTTP error! status: 429
+2025-05-29T04:57:23.248Z - Error processing user tierra7006: HTTP error! status: 429
+2025-05-29T04:57:23.252Z - Error processing user amayaaa7447: HTTP error! status: 429
+2025-05-29T04:57:23.254Z - Error processing user jessica.matthews840: HTTP error! status: 429
+2025-05-29T04:57:23.257Z - Error processing user foodiegirlclaudia: HTTP error! status: 429
+2025-05-29T04:57:23.264Z - Error processing user juliafries28: HTTP error! status: 429
+2025-05-29T04:57:23.286Z - Error processing user eemyguelphy: HTTP error! status: 429
+2025-05-29T04:57:23.292Z - Error processing user juliebaby5363: HTTP error! status: 429
+2025-05-29T04:57:23.300Z - Error processing user mad.jsn: HTTP error! status: 429
+2025-05-29T04:57:23.307Z - Error processing user b2.synn: HTTP error! status: 429
+2025-05-29T04:57:23.310Z - Error processing user morealishax: HTTP error! status: 429
+2025-05-29T04:57:23.313Z - Error processing user wendolyn.ortiz.s: HTTP error! status: 429
+2025-05-29T04:57:23.318Z - Error processing user violet.robinsonnn: HTTP error! status: 429
+2025-05-29T04:57:23.327Z - Error processing user wendolynortizzx: HTTP error! status: 429
+2025-05-29T04:57:23.345Z - Error processing user chrliepr: HTTP error! status: 429
+2025-05-29T04:57:23.351Z - Error processing user annie_pope: HTTP error! status: 429
+2025-05-29T04:57:23.363Z - Error processing user shelbygiaperry: HTTP error! status: 429
+2025-05-29T04:57:23.369Z - Error processing user the_bob64: HTTP error! status: 429
+2025-05-29T04:57:23.370Z - Error processing user ashblanc2: HTTP error! status: 429
+2025-05-29T04:57:23.373Z - Error processing user maiiiaknighttt: HTTP error! status: 429
+2025-05-29T04:57:23.379Z - Error processing user tatumroseee: HTTP error! status: 429
+2025-05-29T04:57:23.389Z - Error processing user maya_candyyy: HTTP error! status: 429
+2025-05-29T04:57:23.402Z - Error processing user maya_candee: HTTP error! status: 429
+2025-05-29T04:57:23.409Z - Error processing user jessicaglint: HTTP error! status: 429
+2025-05-29T04:57:23.426Z - Error processing user kaylamoris33: HTTP error! status: 429
+2025-05-29T04:57:23.440Z - Error processing user qibojaze13k: HTTP error! status: 429
+2025-05-29T04:57:23.441Z - Error processing user shariinnaa: HTTP error! status: 429
+2025-05-29T04:57:23.443Z - Error processing user sadieelm5xs: HTTP error! status: 429
+2025-05-29T04:57:23.453Z - Error processing user lauradarings: HTTP error! status: 429
+2025-05-29T04:57:23.460Z - Error processing user skinpeelingoff: HTTP error! status: 429
+2025-05-29T04:57:23.467Z - Error processing user beautykayla5: HTTP error! status: 429
+2025-05-29T04:57:23.489Z - Error processing user emma.jonessss1: HTTP error! status: 429
+2025-05-29T04:57:23.502Z - Error processing user maiiiaknightt: HTTP error! status: 429
+2025-05-29T04:57:23.503Z - Error processing user maya_malonee: HTTP error! status: 429
+2025-05-29T04:57:23.521Z - Error processing user serenapagexx: HTTP error! status: 429
+2025-05-29T04:57:23.523Z - Error processing user bekahelliseeee: HTTP error! status: 429
+2025-05-29T04:57:23.524Z - Error processing user chriseanrockbabyz: HTTP error! status: 429
+2025-05-29T04:57:23.525Z - Error processing user serenapagex: HTTP error! status: 429
+2025-05-29T04:57:23.551Z - Error processing user delazahburkk09: HTTP error! status: 429
+2025-05-29T04:57:23.552Z - Error processing user rorie8992: HTTP error! status: 429
+2025-05-29T04:57:23.562Z - Error processing user pamelapedrosaa: HTTP error! status: 429
+2025-05-29T04:57:23.562Z - Error processing user audrey.ausg: HTTP error! status: 429
+2025-05-29T04:57:23.581Z - Error processing user emilyreallydgaf: HTTP error! status: 429
+2025-05-29T04:57:23.581Z - Error processing user avadenise99: HTTP error! status: 429
+2025-05-29T04:57:23.583Z - Error processing user notlexila: HTTP error! status: 429
+2025-05-29T04:57:23.587Z - Error processing user skylarrjanee: HTTP error! status: 429
+2025-05-29T04:57:23.617Z - Error processing user larahaulzz: HTTP error! status: 429
+2025-05-29T04:57:23.620Z - Error processing user emmasmithh003: HTTP error! status: 429
+2025-05-29T04:57:23.623Z - Error processing user courtneyyslay: HTTP error! status: 429
+2025-05-29T04:57:23.627Z - Error processing user petermccloskey6: HTTP error! status: 429
+2025-05-29T04:57:23.638Z - Error processing user rosiepoppyf: HTTP error! status: 429
+2025-05-29T04:57:23.648Z - Error processing user amandasolisspm: HTTP error! status: 429
+2025-05-29T04:57:23.650Z - Error processing user lianapxiop4: HTTP error! status: 429
+2025-05-29T04:57:23.679Z - Error processing user heeyitsfaye: HTTP error! status: 429
+2025-05-29T04:57:23.684Z - Error processing user lindarodriguezz0: HTTP error! status: 429
+2025-05-29T04:57:23.685Z - Error processing user helenharris_: HTTP error! status: 429
+2025-05-29T04:57:23.688Z - Error processing user yannaa.life: HTTP error! status: 429
+2025-05-29T04:57:23.697Z - Error processing user tarayummyaz: HTTP error! status: 429
+2025-05-29T04:57:23.705Z - Error processing user lexi2hawt: HTTP error! status: 429
+2025-05-29T04:57:23.712Z - Error processing user camlollz1: HTTP error! status: 429
+2025-05-29T04:57:23.740Z - Error processing user kidetytt: HTTP error! status: 429
+2025-05-29T04:57:23.754Z - Error processing user janeeeewl7: HTTP error! status: 429
+2025-05-29T04:57:23.806Z - Batch completed in 10.829 seconds
+2025-05-29T04:57:23.806Z - Processed 299 users, found 0 new posts
+2025-05-29T04:58:12.978Z - 
+=== Starting New Check ===
+2025-05-29T04:58:18.312Z - Batch completed in 5.333 seconds
+2025-05-29T04:58:18.312Z - Processed 88 users, found 0 new posts
+2025-05-29T04:59:12.990Z - 
+=== Starting New Check ===
+2025-05-29T04:59:18.251Z - Batch completed in 5.26 seconds
+2025-05-29T04:59:18.252Z - Processed 88 users, found 0 new posts
+2025-05-29T04:59:57.178Z - 
+=== Post Sniper Started ===
+2025-05-29T04:59:57.202Z - Loaded 1133 existing posts
+2025-05-29T04:59:57.203Z - 
+=== Starting New Check ===
+2025-05-29T05:00:02.574Z - Batch completed in 5.371 seconds
+2025-05-29T05:00:02.575Z - Processed 88 users, found 0 new posts
+2025-05-29T05:01:02.575Z - 
+=== Starting New Check ===
+2025-05-29T05:01:07.970Z - Batch completed in 5.394 seconds
+2025-05-29T05:01:07.970Z - Processed 88 users, found 0 new posts
+2025-05-29T05:02:02.581Z - 
+=== Starting New Check ===
+2025-05-29T05:02:07.972Z - Batch completed in 5.391 seconds
+2025-05-29T05:02:07.972Z - Processed 88 users, found 0 new posts
+2025-05-29T05:03:02.587Z - 
+=== Starting New Check ===
+2025-05-29T05:03:07.845Z - Batch completed in 5.257 seconds
+2025-05-29T05:03:07.846Z - Processed 88 users, found 0 new posts
+2025-05-29T05:04:02.590Z - 
+=== Starting New Check ===
+2025-05-29T05:04:07.926Z - Batch completed in 5.336 seconds
+2025-05-29T05:04:07.927Z - Processed 88 users, found 0 new posts
+2025-05-29T05:05:02.592Z - 
+=== Starting New Check ===
+2025-05-29T05:05:07.859Z - Batch completed in 5.267 seconds
+2025-05-29T05:05:07.859Z - Processed 88 users, found 0 new posts
+2025-05-29T05:06:02.598Z - 
+=== Starting New Check ===
+2025-05-29T05:06:02.810Z - Error processing user kaylarensworth05_: HTTP error! status: 429
+2025-05-29T05:06:02.815Z - Error processing user skykatzbackupacc: HTTP error! status: 429
+2025-05-29T05:06:02.817Z - Error processing user itsasalamaleh: HTTP error! status: 429
+2025-05-29T05:06:02.825Z - Error processing user mirabairagann: HTTP error! status: 429
+2025-05-29T05:06:02.858Z - Error processing user maddyxane: HTTP error! status: 429
+2025-05-29T05:06:02.859Z - Error processing user annabellexoxo__: HTTP error! status: 429
+2025-05-29T05:06:02.859Z - Error processing user samarapf2bp: HTTP error! status: 429
+2025-05-29T05:06:02.862Z - Error processing user kaelyngutierrex: HTTP error! status: 429
+2025-05-29T05:06:02.863Z - Error processing user scottkressx: HTTP error! status: 429
+2025-05-29T05:06:02.867Z - Error processing user kiannahurtado: HTTP error! status: 429
+2025-05-29T05:06:02.867Z - Error processing user haiilie_jade_: HTTP error! status: 429
+2025-05-29T05:06:02.873Z - Error processing user ltsjordannn: HTTP error! status: 429
+2025-05-29T05:06:02.880Z - Error processing user emma39905: HTTP error! status: 429
+2025-05-29T05:06:02.921Z - Error processing user laura.hansonnn: HTTP error! status: 429
+2025-05-29T05:06:02.924Z - Error processing user samanthaisherr: HTTP error! status: 429
+2025-05-29T05:06:02.925Z - Error processing user spamchole: HTTP error! status: 429
+2025-05-29T05:06:02.925Z - Error processing user rosenellax: HTTP error! status: 429
+2025-05-29T05:06:02.927Z - Error processing user rileeoyaaoz: HTTP error! status: 429
+2025-05-29T05:06:02.932Z - Error processing user eve73543: HTTP error! status: 429
+2025-05-29T05:06:02.933Z - Error processing user elasthoughts1: HTTP error! status: 429
+2025-05-29T05:06:02.935Z - Error processing user hitsnatasha: HTTP error! status: 429
+2025-05-29T05:06:02.977Z - Error processing user briannahodges41: HTTP error! status: 429
+2025-05-29T05:06:02.977Z - Error processing user sunnyhauls28: HTTP error! status: 429
+2025-05-29T05:06:02.987Z - Error processing user sallyrmaker3: HTTP error! status: 429
+2025-05-29T05:06:02.988Z - Error processing user 2youfromsarah: HTTP error! status: 429
+2025-05-29T05:06:02.989Z - Error processing user sadieemckennnaa5: HTTP error! status: 429
+2025-05-29T05:06:02.990Z - Error processing user madyylamb: HTTP error! status: 429
+2025-05-29T05:06:02.990Z - Error processing user savannahxlabran: HTTP error! status: 429
+2025-05-29T05:06:02.995Z - Error processing user simonebillesowen: HTTP error! status: 429
+2025-05-29T05:06:03.007Z - Error processing user kyliefrank922: HTTP error! status: 429
+2025-05-29T05:06:03.029Z - Error processing user itmightbealyssa: HTTP error! status: 429
+2025-05-29T05:06:03.035Z - Error processing user hopewhatson: HTTP error! status: 429
+2025-05-29T05:06:03.045Z - Error processing user serenaofficialspam: HTTP error! status: 429
+2025-05-29T05:06:03.046Z - Error processing user serenaofficialspam: HTTP error! status: 429
+2025-05-29T05:06:03.049Z - Error processing user mikemizzzle: HTTP error! status: 429
+2025-05-29T05:06:03.050Z - Error processing user p3yton906: HTTP error! status: 429
+2025-05-29T05:06:03.057Z - Error processing user aliiixearlee: HTTP error! status: 429
+2025-05-29T05:06:03.057Z - Error processing user serenaofficialspam: HTTP error! status: 429
+2025-05-29T05:06:03.070Z - Error processing user kalogeras.sm: HTTP error! status: 429
+2025-05-29T05:06:03.088Z - Error processing user halle.bailey.sp: HTTP error! status: 429
+2025-05-29T05:06:03.096Z - Error processing user larrayeeesp: HTTP error! status: 429
+2025-05-29T05:06:03.103Z - Error processing user wendolyn.ortiz.sp: HTTP error! status: 429
+2025-05-29T05:06:03.114Z - Error processing user caitlynburrows_: HTTP error! status: 429
+2025-05-29T05:06:03.118Z - Error processing user summerrrxx_: HTTP error! status: 429
+2025-05-29T05:06:03.124Z - Error processing user clairegoodman03: HTTP error! status: 429
+2025-05-29T05:06:03.131Z - Error processing user amandaasummerss1: HTTP error! status: 429
+2025-05-29T05:06:03.135Z - Error processing user lizasu: HTTP error! status: 429
+2025-05-29T05:06:03.136Z - Error processing user wendolynortizspamsz: HTTP error! status: 429
+2025-05-29T05:06:03.150Z - Error processing user janesworlld: HTTP error! status: 429
+2025-05-29T05:06:03.159Z - Error processing user lexie7814: HTTP error! status: 429
+2025-05-29T05:06:03.162Z - Error processing user bella.bliss021: HTTP error! status: 429
+2025-05-29T05:06:03.174Z - Error processing user keilaa565: HTTP error! status: 429
+2025-05-29T05:06:03.180Z - Error processing user aliyahh2314: HTTP error! status: 429
+2025-05-29T05:06:03.184Z - Error processing user haterluvamara: HTTP error! status: 429
+2025-05-29T05:06:03.185Z - Error processing user imadeline.xx: HTTP error! status: 429
+2025-05-29T05:06:03.195Z - Error processing user lysaaa505: HTTP error! status: 429
+2025-05-29T05:06:03.200Z - Error processing user jessyl684: HTTP error! status: 429
+2025-05-29T05:06:03.209Z - Error processing user oliviamornington96: HTTP error! status: 429
+2025-05-29T05:06:03.210Z - Error processing user cringealyssaa: HTTP error! status: 429
+2025-05-29T05:06:03.219Z - Error processing user emmastone1467: HTTP error! status: 429
+2025-05-29T05:06:03.238Z - Error processing user enniclark: HTTP error! status: 429
+2025-05-29T05:06:03.241Z - Error processing user selenasephora: HTTP error! status: 429
+2025-05-29T05:06:03.242Z - Error processing user adriana.j06: HTTP error! status: 429
+2025-05-29T05:06:03.250Z - Error processing user miasnolan: HTTP error! status: 429
+2025-05-29T05:06:03.257Z - Error processing user mia_taylor23: HTTP error! status: 429
+2025-05-29T05:06:03.261Z - Error processing user yashadidit: HTTP error! status: 429
+2025-05-29T05:06:03.264Z - Error processing user katiespag1: HTTP error! status: 429
+2025-05-29T05:06:03.267Z - Error processing user maggiecookie1: HTTP error! status: 429
+2025-05-29T05:06:03.278Z - Error processing user iemily134: HTTP error! status: 429
+2025-05-29T05:06:03.296Z - Error processing user queenisacsu: HTTP error! status: 429
+2025-05-29T05:06:03.310Z - Error processing user mollyturks: HTTP error! status: 429
+2025-05-29T05:06:03.312Z - Error processing user gabbyydouglasss: HTTP error! status: 429
+2025-05-29T05:06:03.313Z - Error processing user laurebbyam: HTTP error! status: 429
+2025-05-29T05:06:04.532Z - Batch completed in 1.933 seconds
+2025-05-29T05:06:04.532Z - Processed 88 users, found 0 new posts
+2025-05-29T05:07:02.603Z - 
+=== Starting New Check ===
+2025-05-29T05:07:08.052Z - Batch completed in 5.449 seconds
+2025-05-29T05:07:08.053Z - Processed 88 users, found 0 new posts
+2025-05-29T05:08:02.613Z - 
+=== Starting New Check ===
+2025-05-29T05:08:08.001Z - Batch completed in 5.388 seconds
+2025-05-29T05:08:08.001Z - Processed 88 users, found 0 new posts
+2025-05-29T05:09:02.623Z - 
+=== Starting New Check ===
+2025-05-29T05:09:07.820Z - Batch completed in 5.196 seconds
+2025-05-29T05:09:07.820Z - Processed 88 users, found 0 new posts
+2025-05-29T05:10:02.625Z - 
+=== Starting New Check ===
+2025-05-29T05:10:08.096Z - Batch completed in 5.47 seconds
+2025-05-29T05:10:08.097Z - Processed 88 users, found 0 new posts
+2025-05-29T05:11:02.627Z - 
+=== Starting New Check ===
+2025-05-29T05:11:07.863Z - Batch completed in 5.236 seconds
+2025-05-29T05:11:07.864Z - Processed 88 users, found 0 new posts
+2025-05-29T05:12:02.633Z - 
+=== Starting New Check ===
+2025-05-29T05:12:07.863Z - Batch completed in 5.23 seconds
+2025-05-29T05:12:07.864Z - Processed 88 users, found 0 new posts
+2025-05-29T05:13:02.643Z - 
+=== Starting New Check ===
+2025-05-29T05:13:07.824Z - Batch completed in 5.18 seconds
+2025-05-29T05:13:07.824Z - Processed 88 users, found 0 new posts
+2025-05-29T05:14:02.648Z - 
+=== Starting New Check ===
+2025-05-29T05:14:08.017Z - Batch completed in 5.368 seconds
+2025-05-29T05:14:08.017Z - Processed 88 users, found 0 new posts
+2025-05-29T05:15:02.663Z - 
+=== Starting New Check ===
+2025-05-29T05:15:07.903Z - Batch completed in 5.24 seconds
+2025-05-29T05:15:07.903Z - Processed 88 users, found 0 new posts
+2025-05-29T05:16:02.668Z - 
+=== Starting New Check ===
+2025-05-29T05:16:07.979Z - Batch completed in 5.31 seconds
+2025-05-29T05:16:07.979Z - Processed 88 users, found 0 new posts

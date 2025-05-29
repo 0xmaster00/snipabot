@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TikTok Sniper</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(145deg, #000000, #0a0a0a);
+      color: #fff;
+      margin: 0;
+      padding: 20px;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+  
+    .header-icon {
+      font-size: 48px;
+    text-align: center;
+    position: relative;
+    display: flex;
+    padding: 12px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #ff2d55, #ff405c);
+    animation: heartBeat 1.3s ease-in-out infinite;
+    margin: 24px auto;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+.input-group {
+    display: flex;
+    gap: 8px;
+    background: rgb(255 45 85);
+    padding: 8px;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 0 auto 20px;
+    width: fit-content;
+}
+
+.pink-input {
+    background: rgba(255, 45, 85, 0.1);
+    border: 1px solid rgba(255, 45, 85, 0.2);
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 14px;
+    width: 200px;
+    transition: all 0.3s ease;
+}
+
+.pink-input:focus {
+    outline: none;
+    border-color: #ff2d55;
+    background: rgba(255, 45, 85, 0.15);
+    box-shadow: 0 0 0 2px rgba(255, 45, 85, 0.1);
+}
+
+.pink-input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* Remove the absolute positioning since we're placing it above */
+.input-group {
+    position: static;
+    transform: none;
+    left: auto;
+}
+.header-icon i {
+  background: black;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 10px rgba(255, 45, 85, 0.3));
+}
+
+@keyframes heartBeat {
+  0% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  14% {
+    transform: scale(1.15);
+    filter: brightness(1.3);
+  }
+  28% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  42% {
+    transform: scale(1.15);
+    filter: brightness(1.3);
+  }
+  70% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  100% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+}
+
+/* Sniper reticle hover effect */
+.header-icon::before,
+.header-icon::after {
+  content: '';
+  position: absolute;
+  width: 40px;
+  height: 2px;
+  background: rgba(253, 253, 253, 0.2);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s ease;
+  opacity: 0;
+}
+
+.header-icon::after {
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.header-icon:hover::before,
+.header-icon:hover::after {
+  opacity: 1;
+  width: 60px;
+}
+
+/* Add subtle glow */
+.header-icon:hover i {
+  filter: drop-shadow(0 0 15px rgba(255, 45, 85, 0.5));
+}
+  
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+      100% { transform: scale(1); }
+    }
+  
+    .action-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      margin: 32px 0;
+    }
+  
+    .action-buttons button {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: #fff;
+      font-size: 20px;
+      width: 50px;
+      height: 50px;
+      border-radius: 14px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(10px);
+    }
+  
+    .action-buttons button:hover {
+      background: #ff2d55;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(255, 45, 85, 0.25);
+    }
+  
+    .filters {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 0 auto 32px;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(20px);
+    padding: 24px;
+    border-radius: 20px;
+    max-width: 900px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    flex-wrap: wrap;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-width: 120px;
+}
+
+/* Style specific to username input */
+#username {
+    width: 120px;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+#username:focus {
+    border-color: #ff2d55;
+    box-shadow: 0 0 0 2px rgba(255, 45, 85, 0.2);
+    outline: none;
+    width: 140px; /* Slightly expand on focus */
+}
+
+#username::placeholder {
+    color: rgba(255, 255, 255, 0.3);
+}
+  
+    .filter-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+  
+    .filters label {
+      color: #ff2d55;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+  
+    .filters input {
+      width: 120px;
+      padding: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.2);
+      color: #fff;
+      font-size: 14px;
+      transition: all 0.3s ease;
+    }
+  
+    .filters input:focus {
+      border-color: #ff2d55;
+      box-shadow: 0 0 0 2px rgba(255, 45, 85, 0.2);
+      outline: none;
+    }
+  
+    .filters button {
+      padding: 12px 24px;
+      background: #ff2d55;
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: all 0.3s ease;
+      align-self: flex-end;
+    }
+  
+    .filters button:hover {
+      background: #ff405c;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(255, 45, 85, 0.25);
+    }
+  
+    .video-container {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 20px;
+      max-width: 1800px;
+      margin: 0 auto;
+      padding: 0 12px;
+    }
+  
+    .video-card {
+      background: rgba(31, 31, 31, 0.6);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+      position: relative;
+    }
+  
+    .video-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    }
+  
+    .video-card.highlight {
+      background: linear-gradient(145deg, #ff2d55, #ff405c);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      box-shadow: 0 12px 24px rgba(255, 45, 85, 0.25);
+    }
+  
+    .video-card.highlight::before {
+      content: '\f06d';
+      font-family: 'Font Awesome 6 Free';
+      font-weight: 900;
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: rgba(255, 255, 255, 0.95);
+      color: #ff2d55;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      z-index: 2;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+  
+    .video-card a {
+      display: block;
+      position: relative;
+      width: 100%;
+      padding-top: 133%;
+      overflow: hidden;
+    }
+  
+    .video-card a img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+    }
+  
+    .video-card:hover a img {
+      transform: scale(1.08);
+    }
+  
+    .video-stats {
+      padding: 16px;
+      background: inherit;
+    }
+  
+    .video-title {
+      font-size: 15px;
+      font-weight: 600;
+      margin: 0 0 8px;
+      line-height: 1.4;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  
+    .author {
+      font-size: 14px;
+      color: #ff2d55;
+      margin-bottom: 12px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+    }
+  
+    .highlight .author {
+      color: rgba(255, 255, 255, 0.9);
+    }
+  
+    .stats-container {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .video-card.highlight {
+    background: linear-gradient(-45deg, #ff2d55, #ff405c, #ff2d55);
+    background-size: 200% 200%;
+    animation: gradientBG 5s ease infinite;
+}
+
+/* Add floating effect */
+.video-card:hover {
+    animation: float 3s ease-in-out infinite;
+}
+  
+    .stats-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+  
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      transition: all 0.2s ease;
+    }
+  
+    .stat-item:hover {
+      background: rgba(0, 0, 0, 0.3);
+      transform: translateY(-1px);
+    }
+  
+    .stat-item i {
+      font-size: 18px;
+      width: 18px;
+    }
+  
+    .stat-item span {
+      font-size: 14px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+    }
+  
+    .highlight .stat-item {
+      background: rgba(255, 255, 255, 0.15);
+    }
+  
+    .highlight .stat-item:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+  
+    @media (max-width: 1600px) {
+      .video-container { grid-template-columns: repeat(5, 1fr); }
+    }
+    
+    @media (max-width: 1300px) {
+      .video-container { grid-template-columns: repeat(4, 1fr); }
+    }
+    
+    @media (max-width: 1000px) {
+      .video-container { grid-template-columns: repeat(3, 1fr); }
+    }
+    
+    @media (max-width: 768px) {
+      .video-container { 
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+      }
+      .filters {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+      .filters input {
+        width: 100%;
+      }
+      .stat-item {
+    backdrop-filter: blur(8px);
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+    }
+    
+    @media (max-width: 480px) {
+      .video-container { 
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+      body {
+        padding: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header-icon">
+    <i class="fas fa-crosshairs"></i>
+  </div>
+  
+  <div class="filters">
+    <div class="filter-group">
+        <label for="username">Username</label>
+        <input type="text" id="username" placeholder="@username">
+    </div>
+    <div class="filter-group">
+        <label for="min-views">Min Views</label>
+        <input type="number" id="min-views" placeholder="1000">
+    </div>
+    <div class="filter-group">
+        <label for="min-likes">Min Likes</label>
+        <input type="number" id="min-likes" placeholder="100">
+    </div>
+    <div class="filter-group">
+        <label for="min-comments">Min Comments</label>
+        <input type="number" id="min-comments" placeholder="10">
+    </div>
+    <button id="apply-filters">Apply</button>
+</div>
+<div id="add-user-input" class="input-group" style="display: none;">
+  <input type="text" id="new-username" placeholder="Enter username" class="pink-input">
+  <button id="confirm-add-user">
+      <i class="fas fa-check"></i>
+  </button>
+  <button id="cancel-add-user">
+      <i class="fas fa-times"></i>
+  </button>
+</div>
+  <div class="action-buttons">
+    <button id="add-user-button" title="Add User">
+      <i class="fas fa-plus"></i>
+  </button>
+    <button id="refresh-button" title="Refresh">
+      <i class="fas fa-sync-alt"></i>
+    </button>
+    <button id="update-views-button" title="Update Views">
+      <i class="fas fa-chart-line"></i>
+    </button>
+  </div>
+
+  <div class="video-container" id="video-grid"></div>
+
+  <script>
+    document.getElementById('refresh-button').addEventListener('click', () => {
+      location.reload();
+    });
+
+    let allVideos = [];
+
+    async function fetchVideos() {
+      try {
+        const response = await fetch('/videos');
+        const data = await response.json();
+        allVideos = data.sort((a, b) => b.createTime - a.createTime);
+        displayVideos(allVideos);
+      } catch (error) {
+        console.error('Error fetching video data:', error);
+      }
+    }
+
+    function displayVideos(videos) {
+      const videoGrid = document.getElementById('video-grid');
+      videoGrid.innerHTML = '';
+
+      videos.forEach(video => {
+        const tiktokUrl = `https://www.tiktok.com/@${video.author.uniqueId}/video/${video.id}`;
+        const postDate = new Date(video.createTime * 1000).toLocaleDateString('en-GB');
+        const isHighlight = video.stats.playCount > 100000;
+
+        const videoCard = document.createElement('div');
+        videoCard.className = `video-card ${isHighlight ? 'highlight' : ''}`;
+
+        videoCard.innerHTML = `
+          <a href="${tiktokUrl}" target="_blank">
+            <img src="/thumbnails/${video.id}.jpg" alt="Video thumbnail">
+          </a>
+          <div class="video-stats">
+            <p class="author">@${video.author.uniqueId}</p>
+            <div class="stats-row">
+              <span class="stat-item"><i class="fas fa-heart"></i>${video.stats.diggCount.toLocaleString()}</span>
+              <span class="stat-item"><i class="fas fa-comment"></i>${video.stats.commentCount.toLocaleString()}</span>
+              <span class="stat-item"><i class="fas fa-share"></i>${video.stats.shareCount.toLocaleString()}</span>
+            </div>
+            <div class="stats-row" style="margin-top:4px">
+              <span class="stat-item"><i class="fas fa-play"></i>${video.stats.playCount.toLocaleString()}</span>
+              <span class="stat-item"><i class="fas fa-calendar"></i>${postDate}</span>
+            </div>
+          </div>
+        `;
+
+        videoGrid.appendChild(videoCard);
+      });
+    }
+
+    function applyFilters() {
+    const username = document.getElementById('username').value.trim().toLowerCase().replace('@', '');
+    const minViews = document.getElementById('min-views').value || 0;
+    const minLikes = document.getElementById('min-likes').value || 0;
+    const minComments = document.getElementById('min-comments').value || 0;
+
+    const filteredVideos = allVideos.filter(video => {
+        const meetsUsername = !username || video.author.uniqueId.toLowerCase() === username;
+        const meetsViews = video.stats.playCount >= minViews;
+        const meetsLikes = video.stats.diggCount >= minLikes;
+        const meetsComments = video.stats.commentCount >= minComments;
+
+        return meetsUsername && meetsViews && meetsLikes && meetsComments;
+    });
+
+    displayVideos(filteredVideos);
+}
+
+    document.getElementById('apply-filters').addEventListener('click', applyFilters);
+    document.addEventListener('DOMContentLoaded', fetchVideos);
+    document.getElementById('update-views-button').addEventListener('click', async () => {
+    try {
+        // Change button to loading state
+        const button = document.getElementById('update-views-button');
+        const originalContent = button.innerHTML;
+        button.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
+        button.disabled = true;
+
+        const response = await fetch('/update-metrics', { method: 'POST' });
+        const data = await response.json();
+        
+        if (data.success) {
+            alert(`Successfully updated ${data.updatedCount} videos. Refreshing page...`);
+            location.reload();
+        } else {
+            alert('Error updating metrics: ' + data.error);
+        }
+    } catch (error) {
+        alert('Error updating metrics: ' + error.message);
+    } finally {
+        // Reset button state if page hasn't reloaded
+        button.innerHTML = originalContent;
+        button.disabled = false;
+    }
+});
+function showAddUserInput() {
+    document.getElementById('add-user-input').style.display = 'flex';
+    document.getElementById('new-username').focus();
+}
+
+function hideAddUserInput() {
+    document.getElementById('add-user-input').style.display = 'none';
+    document.getElementById('new-username').value = '';
+}
+
+// Add event listeners
+document.getElementById('add-user-button').addEventListener('click', showAddUserInput);
+document.getElementById('cancel-add-user').addEventListener('click', hideAddUserInput);
+document.getElementById('confirm-add-user').addEventListener('click', async () => {
+    const username = document.getElementById('new-username').value.trim().replace('@', '');
+    
+    if (!username) {
+        alert('Please enter a username');
+        return;
+    }
+
+    try {
+        const response = await fetch('/add-user', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ username })
+        });
+
+        const data = await response.json();
+        
+        if (data.success) {
+            alert('User successfully added!');
+            hideAddUserInput();
+            location.reload();
+        } else {
+            alert(data.message || 'Failed to add user');
+        }
+    } catch (error) {
+        alert('Error adding user: ' + error.message);
+    }
+});
+  </script>
+</body>
+</html>
