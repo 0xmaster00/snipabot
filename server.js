@@ -11,12 +11,20 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3000;
+// Use Railway's PORT environment variable or fallback to 3000
+const PORT = process.env.PORT || 3000;
+// Bind to all interfaces (0.0.0.0) instead of localhost
+const HOST = '0.0.0.0';
 
 // Middleware
 app.use(cors());
 app.use(express.json());
-app.use(express.static(path.join(__dirname,  'public')));
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Health check route (good practice for Railway)
+app.get('/health', (req, res) => {
+    res.json({ status: 'OK', timestamp: new Date().toISOString() });
+});
 
 // Routes
 
@@ -66,6 +74,7 @@ app.post('/update-metrics', async (req, res) => {
         });
     }
 });
+
 app.post('/add-user', async (req, res) => {
     try {
         const { username } = req.body;
@@ -141,6 +150,7 @@ app.post('/add-user', async (req, res) => {
         });
     }
 });
+
 // Error handling middleware
 app.use((err, req, res, next) => {
     console.error(err.stack);
@@ -150,10 +160,11 @@ app.use((err, req, res, next) => {
     });
 });
 
-// Start server
-app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
-    console.log(`Public directory: ${path.join(__dirname, '..', 'public')}`);
+// Start server - FIXED: bind to HOST (0.0.0.0) instead of localhost
+app.listen(PORT, HOST, () => {
+    console.log(`Server is running on http://${HOST}:${PORT}`);
+    console.log(`Public directory: ${path.join(__dirname, 'public')}`);
+    console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
 });
 
 // Handle uncaught errors
